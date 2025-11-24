@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&family=Inter:wght@400;500;600&display=swap');
+
+:root {
+  font-family: 'Patrick Hand', 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  color: #1b1c1d;
+  background: #fdf9f2;
+  --surface: #ffffff;
+  --surface-subtle: #f3ede4;
+  --accent: #f05464;
+  --accent-soft: #fcd7de;
+  --danger: #f05464;
+  --muted: #6f6f78;
+  --border: #efdcc4;
+  --shadow-xl: 0 18px 60px rgba(33, 28, 16, 0.08);
+  line-height: 1.5;
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background: var(--surface-subtle);
+  color: inherit;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+a {
+  color: var(--accent);
+}
+
+button {
+  font: inherit;
+}

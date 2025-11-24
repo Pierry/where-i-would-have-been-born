@@ -1,0 +1,4944 @@
+[
+  {
+    "iso3": "ABW",
+    "iso2": "AW",
+    "country": "Aruba",
+    "population": 107359,
+    "weight": 1.23e-06,
+    "cumulativeWeight": 1.23e-06,
+    "capital": "Oranjestad",
+    "capitalLatLng": [
+      12.52,
+      -70.03
+    ],
+    "latLng": [
+      12.5,
+      -69.96666666
+    ],
+    "flag": "https://flagcdn.com/aw.svg",
+    "flagEmoji": "\ud83c\udde6\ud83c\uddfc",
+    "mapUrl": "https://goo.gl/maps/8hopbQqifHAgyZyg8",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "spotlightCity": "Oranjestad"
+  },
+  {
+    "iso3": "AFG",
+    "iso2": "AF",
+    "country": "Afghanistan",
+    "population": 41454761,
+    "weight": 0.00047579,
+    "cumulativeWeight": 0.00047702,
+    "capital": "Kabul",
+    "capitalLatLng": [
+      34.52,
+      69.18
+    ],
+    "latLng": [
+      33.0,
+      65.0
+    ],
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_the_Taliban.svg",
+    "flagEmoji": "\ud83c\udde6\ud83c\uddeb",
+    "mapUrl": "https://goo.gl/maps/BXBGw7yUUFknCfva9",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "spotlightCity": "Kabul"
+  },
+  {
+    "iso3": "AGO",
+    "iso2": "AO",
+    "country": "Angola",
+    "population": 36749906,
+    "weight": 0.00042179,
+    "cumulativeWeight": 0.00089881,
+    "capital": "Luanda",
+    "capitalLatLng": [
+      -8.83,
+      13.22
+    ],
+    "latLng": [
+      -12.5,
+      18.5
+    ],
+    "flag": "https://flagcdn.com/ao.svg",
+    "flagEmoji": "\ud83c\udde6\ud83c\uddf4",
+    "mapUrl": "https://goo.gl/maps/q42Qbf1BmQL3fuZg9",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "spotlightCity": "Luanda"
+  },
+  {
+    "iso3": "ALB",
+    "iso2": "AL",
+    "country": "Albania",
+    "population": 2745972,
+    "weight": 3.152e-05,
+    "cumulativeWeight": 0.00093032,
+    "capital": "Tirana",
+    "capitalLatLng": [
+      41.32,
+      19.82
+    ],
+    "latLng": [
+      41.0,
+      20.0
+    ],
+    "flag": "https://flagcdn.com/al.svg",
+    "flagEmoji": "\ud83c\udde6\ud83c\uddf1",
+    "mapUrl": "https://goo.gl/maps/BzN9cTuj68ZA8SyZ8",
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "spotlightCity": "Tirana"
+  },
+  {
+    "iso3": "AND",
+    "iso2": "AD",
+    "country": "Andorra",
+    "population": 80856,
+    "weight": 9.3e-07,
+    "cumulativeWeight": 0.00093125,
+    "capital": "Andorra la Vella",
+    "capitalLatLng": [
+      42.5,
+      1.52
+    ],
+    "latLng": [
+      42.5,
+      1.5
+    ],
+    "flag": "https://flagcdn.com/ad.svg",
+    "flagEmoji": "\ud83c\udde6\ud83c\udde9",
+    "mapUrl": "https://goo.gl/maps/JqAnacWE2qEznKgw7",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "spotlightCity": "Andorra la Vella"
+  },
+  {
+    "iso3": "ARE",
+    "iso2": "AE",
+    "country": "United Arab Emirates",
+    "population": 10483751,
+    "weight": 0.00012032,
+    "cumulativeWeight": 0.00105157,
+    "capital": "Abu Dhabi",
+    "capitalLatLng": [
+      24.47,
+      54.37
+    ],
+    "latLng": [
+      24.0,
+      54.0
+    ],
+    "flag": "https://flagcdn.com/ae.svg",
+    "flagEmoji": "\ud83c\udde6\ud83c\uddea",
+    "mapUrl": "https://goo.gl/maps/AZZTDA6GzVAnKMVd8",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "spotlightCity": "Abu Dhabi"
+  },
+  {
+    "iso3": "ARG",
+    "iso2": "AR",
+    "country": "Argentina",
+    "population": 45538401,
+    "weight": 0.00052266,
+    "cumulativeWeight": 0.00157423,
+    "capital": "Buenos Aires",
+    "capitalLatLng": [
+      -34.58,
+      -58.67
+    ],
+    "latLng": [
+      -34.0,
+      -64.0
+    ],
+    "flag": "https://flagcdn.com/ar.svg",
+    "flagEmoji": "\ud83c\udde6\ud83c\uddf7",
+    "mapUrl": "https://goo.gl/maps/Z9DXNxhf2o93kvyc6",
+    "region": "Americas",
+    "subregion": "South America",
+    "spotlightCity": "Buenos Aires"
+  },
+  {
+    "iso3": "ARM",
+    "iso2": "AM",
+    "country": "Armenia",
+    "population": 2990900,
+    "weight": 3.433e-05,
+    "cumulativeWeight": 0.00160856,
+    "capital": "Yerevan",
+    "capitalLatLng": [
+      40.17,
+      44.5
+    ],
+    "latLng": [
+      40.0,
+      45.0
+    ],
+    "flag": "https://flagcdn.com/am.svg",
+    "flagEmoji": "\ud83c\udde6\ud83c\uddf2",
+    "mapUrl": "https://goo.gl/maps/azWUtK9bUQYEyccbA",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "spotlightCity": "Yerevan"
+  },
+  {
+    "iso3": "ASM",
+    "iso2": "AS",
+    "country": "American Samoa",
+    "population": 47521,
+    "weight": 5.5e-07,
+    "cumulativeWeight": 0.0016091,
+    "capital": "Pago Pago",
+    "capitalLatLng": [
+      -14.27,
+      -170.7
+    ],
+    "latLng": [
+      -14.33333333,
+      -170.0
+    ],
+    "flag": "https://flagcdn.com/as.svg",
+    "flagEmoji": "\ud83c\udde6\ud83c\uddf8",
+    "mapUrl": "https://goo.gl/maps/Re9ePMjwP1sFCBFA6",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "spotlightCity": "Pago Pago"
+  },
+  {
+    "iso3": "ATG",
+    "iso2": "AG",
+    "country": "Antigua and Barbuda",
+    "population": 93316,
+    "weight": 1.07e-06,
+    "cumulativeWeight": 0.00161017,
+    "capital": "St. John's",
+    "capitalLatLng": [
+      17.12,
+      -61.85
+    ],
+    "latLng": [
+      17.05,
+      -61.8
+    ],
+    "flag": "https://flagcdn.com/ag.svg",
+    "flagEmoji": "\ud83c\udde6\ud83c\uddec",
+    "mapUrl": "https://goo.gl/maps/fnye4wGJ1RzC9jpX9",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "spotlightCity": "Saint John's"
+  },
+  {
+    "iso3": "AUS",
+    "iso2": "AU",
+    "country": "Australia",
+    "population": 26658948,
+    "weight": 0.00030597,
+    "cumulativeWeight": 0.00191614,
+    "capital": "Canberra",
+    "capitalLatLng": [
+      -35.27,
+      149.13
+    ],
+    "latLng": [
+      -27.0,
+      133.0
+    ],
+    "flag": "https://flagcdn.com/au.svg",
+    "flagEmoji": "\ud83c\udde6\ud83c\uddfa",
+    "mapUrl": "https://goo.gl/maps/DcjaDa7UbhnZTndH6",
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "spotlightCity": "Canberra"
+  },
+  {
+    "iso3": "AUT",
+    "iso2": "AT",
+    "country": "Austria",
+    "population": 9131761,
+    "weight": 0.00010481,
+    "cumulativeWeight": 0.00202095,
+    "capital": "Vienna",
+    "capitalLatLng": [
+      48.2,
+      16.37
+    ],
+    "latLng": [
+      47.33333333,
+      13.33333333
+    ],
+    "flag": "https://flagcdn.com/at.svg",
+    "flagEmoji": "\ud83c\udde6\ud83c\uddf9",
+    "mapUrl": "https://goo.gl/maps/pCWpWQhznHyRzQcu9",
+    "region": "Europe",
+    "subregion": "Central Europe",
+    "spotlightCity": "Vienna"
+  },
+  {
+    "iso3": "AZE",
+    "iso2": "AZ",
+    "country": "Azerbaijan",
+    "population": 10153958,
+    "weight": 0.00011654,
+    "cumulativeWeight": 0.00213749,
+    "capital": "Baku",
+    "capitalLatLng": [
+      40.38,
+      49.87
+    ],
+    "latLng": [
+      40.5,
+      47.5
+    ],
+    "flag": "https://flagcdn.com/az.svg",
+    "flagEmoji": "\ud83c\udde6\ud83c\uddff",
+    "mapUrl": "https://goo.gl/maps/az3Zz7ar2aoB9AUc6",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "spotlightCity": "Baku"
+  },
+  {
+    "iso3": "BDI",
+    "iso2": "BI",
+    "country": "Burundi",
+    "population": 13689450,
+    "weight": 0.00015712,
+    "cumulativeWeight": 0.00229461,
+    "capital": "Gitega",
+    "capitalLatLng": [
+      -3.43,
+      29.93
+    ],
+    "latLng": [
+      -3.5,
+      30.0
+    ],
+    "flag": "https://flagcdn.com/bi.svg",
+    "flagEmoji": "\ud83c\udde7\ud83c\uddee",
+    "mapUrl": "https://goo.gl/maps/RXPWoRrB9tfrJpUG7",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "spotlightCity": "Gitega"
+  },
+  {
+    "iso3": "BEL",
+    "iso2": "BE",
+    "country": "Belgium",
+    "population": 11787423,
+    "weight": 0.00013529,
+    "cumulativeWeight": 0.0024299,
+    "capital": "Brussels",
+    "capitalLatLng": [
+      50.83,
+      4.33
+    ],
+    "latLng": [
+      50.83333333,
+      4.0
+    ],
+    "flag": "https://flagcdn.com/be.svg",
+    "flagEmoji": "\ud83c\udde7\ud83c\uddea",
+    "mapUrl": "https://goo.gl/maps/UQQzat85TCtPRXAL8",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "spotlightCity": "Brussels"
+  },
+  {
+    "iso3": "BEN",
+    "iso2": "BJ",
+    "country": "Benin",
+    "population": 14111034,
+    "weight": 0.00016196,
+    "cumulativeWeight": 0.00259185,
+    "capital": "Porto-Novo",
+    "capitalLatLng": [
+      6.48,
+      2.62
+    ],
+    "latLng": [
+      9.5,
+      2.25
+    ],
+    "flag": "https://flagcdn.com/bj.svg",
+    "flagEmoji": "\ud83c\udde7\ud83c\uddef",
+    "mapUrl": "https://goo.gl/maps/uMw1BsHEXQYgVFFu6",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "spotlightCity": "Porto-Novo"
+  },
+  {
+    "iso3": "BFA",
+    "iso2": "BF",
+    "country": "Burkina Faso",
+    "population": 23025776,
+    "weight": 0.00026427,
+    "cumulativeWeight": 0.00285612,
+    "capital": "Ouagadougou",
+    "capitalLatLng": [
+      12.37,
+      -1.52
+    ],
+    "latLng": [
+      13.0,
+      -2.0
+    ],
+    "flag": "https://flagcdn.com/bf.svg",
+    "flagEmoji": "\ud83c\udde7\ud83c\uddeb",
+    "mapUrl": "https://goo.gl/maps/rKRmpcMbFher2ozb7",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "spotlightCity": "Ouagadougou"
+  },
+  {
+    "iso3": "BGD",
+    "iso2": "BD",
+    "country": "Bangladesh",
+    "population": 171466990,
+    "weight": 0.00196797,
+    "cumulativeWeight": 0.00482409,
+    "capital": "Dhaka",
+    "capitalLatLng": [
+      23.72,
+      90.4
+    ],
+    "latLng": [
+      24.0,
+      90.0
+    ],
+    "flag": "https://flagcdn.com/bd.svg",
+    "flagEmoji": "\ud83c\udde7\ud83c\udde9",
+    "mapUrl": "https://goo.gl/maps/op6gmLbHcvv6rLhH6",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "spotlightCity": "Dhaka"
+  },
+  {
+    "iso3": "BGR",
+    "iso2": "BG",
+    "country": "Bulgaria",
+    "population": 6446596,
+    "weight": 7.399e-05,
+    "cumulativeWeight": 0.00489808,
+    "capital": "Sofia",
+    "capitalLatLng": [
+      42.68,
+      23.32
+    ],
+    "latLng": [
+      43.0,
+      25.0
+    ],
+    "flag": "https://flagcdn.com/bg.svg",
+    "flagEmoji": "\ud83c\udde7\ud83c\uddec",
+    "mapUrl": "https://goo.gl/maps/F5uAhDGWzc3BrHfm9",
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "spotlightCity": "Sofia"
+  },
+  {
+    "iso3": "BHR",
+    "iso2": "BH",
+    "country": "Bahrain",
+    "population": 1577059,
+    "weight": 1.81e-05,
+    "cumulativeWeight": 0.00491618,
+    "capital": "Manama",
+    "capitalLatLng": [
+      26.23,
+      50.57
+    ],
+    "latLng": [
+      26.0,
+      50.55
+    ],
+    "flag": "https://flagcdn.com/bh.svg",
+    "flagEmoji": "\ud83c\udde7\ud83c\udded",
+    "mapUrl": "https://goo.gl/maps/5Zue99Zc6vFBHxzJ7",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "spotlightCity": "Manama"
+  },
+  {
+    "iso3": "BHS",
+    "iso2": "BS",
+    "country": "Bahamas, The",
+    "population": 399440,
+    "weight": 4.58e-06,
+    "cumulativeWeight": 0.00492076,
+    "capital": "Nassau",
+    "capitalLatLng": [
+      25.08,
+      -77.35
+    ],
+    "latLng": [
+      25.0343,
+      -77.3963
+    ],
+    "flag": "https://flagcdn.com/bs.svg",
+    "flagEmoji": "\ud83c\udde7\ud83c\uddf8",
+    "mapUrl": "https://goo.gl/maps/1YzRs1BZrG8p8pmVA",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "spotlightCity": "Nassau"
+  },
+  {
+    "iso3": "BIH",
+    "iso2": "BA",
+    "country": "Bosnia and Herzegovina",
+    "population": 3185073,
+    "weight": 3.656e-05,
+    "cumulativeWeight": 0.00495732,
+    "capital": "Sarajevo",
+    "capitalLatLng": [
+      43.87,
+      18.42
+    ],
+    "latLng": [
+      44.0,
+      18.0
+    ],
+    "flag": "https://flagcdn.com/ba.svg",
+    "flagEmoji": "\ud83c\udde7\ud83c\udde6",
+    "mapUrl": "https://www.google.com/maps/place/Bosnia+and+Herzegovina",
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "spotlightCity": "Sarajevo"
+  },
+  {
+    "iso3": "BLR",
+    "iso2": "BY",
+    "country": "Belarus",
+    "population": 9178298,
+    "weight": 0.00010534,
+    "cumulativeWeight": 0.00506266,
+    "capital": "Minsk",
+    "capitalLatLng": [
+      53.9,
+      27.57
+    ],
+    "latLng": [
+      53.0,
+      28.0
+    ],
+    "flag": "https://flagcdn.com/by.svg",
+    "flagEmoji": "\ud83c\udde7\ud83c\uddfe",
+    "mapUrl": "https://goo.gl/maps/PJUDU3EBPSszCQcu6",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "spotlightCity": "Minsk"
+  },
+  {
+    "iso3": "BLZ",
+    "iso2": "BZ",
+    "country": "Belize",
+    "population": 411106,
+    "weight": 4.72e-06,
+    "cumulativeWeight": 0.00506738,
+    "capital": "Belmopan",
+    "capitalLatLng": [
+      17.25,
+      -88.77
+    ],
+    "latLng": [
+      17.25,
+      -88.75
+    ],
+    "flag": "https://flagcdn.com/bz.svg",
+    "flagEmoji": "\ud83c\udde7\ud83c\uddff",
+    "mapUrl": "https://goo.gl/maps/jdCccpdLodm1uTmo9",
+    "region": "Americas",
+    "subregion": "Central America",
+    "spotlightCity": "Belmopan"
+  },
+  {
+    "iso3": "BMU",
+    "iso2": "BM",
+    "country": "Bermuda",
+    "population": 64698,
+    "weight": 7.4e-07,
+    "cumulativeWeight": 0.00506812,
+    "capital": "Hamilton",
+    "capitalLatLng": [
+      32.28,
+      -64.78
+    ],
+    "latLng": [
+      32.33333333,
+      -64.75
+    ],
+    "flag": "https://flagcdn.com/bm.svg",
+    "flagEmoji": "\ud83c\udde7\ud83c\uddf2",
+    "mapUrl": "https://goo.gl/maps/NLsRGNjTzDghTtAJA",
+    "region": "Americas",
+    "subregion": "North America",
+    "spotlightCity": "Hamilton"
+  },
+  {
+    "iso3": "BOL",
+    "iso2": "BO",
+    "country": "Bolivia",
+    "population": 12244159,
+    "weight": 0.00014053,
+    "cumulativeWeight": 0.00520865,
+    "capital": "Sucre",
+    "capitalLatLng": [
+      -19.02,
+      -65.26
+    ],
+    "latLng": [
+      -17.0,
+      -65.0
+    ],
+    "flag": "https://flagcdn.com/bo.svg",
+    "flagEmoji": "\ud83c\udde7\ud83c\uddf4",
+    "mapUrl": "https://goo.gl/maps/9DfnyfbxNM2g5U9b9",
+    "region": "Americas",
+    "subregion": "South America",
+    "spotlightCity": "Sucre"
+  },
+  {
+    "iso3": "BRA",
+    "iso2": "BR",
+    "country": "Brazil",
+    "population": 211140729,
+    "weight": 0.00242331,
+    "cumulativeWeight": 0.00763196,
+    "capital": "Brasilia",
+    "capitalLatLng": [
+      -15.79,
+      -47.88
+    ],
+    "latLng": [
+      -10.0,
+      -55.0
+    ],
+    "flag": "https://flagcdn.com/br.svg",
+    "flagEmoji": "\ud83c\udde7\ud83c\uddf7",
+    "mapUrl": "https://goo.gl/maps/waCKk21HeeqFzkNC9",
+    "region": "Americas",
+    "subregion": "South America",
+    "spotlightCity": "Bras\u00edlia"
+  },
+  {
+    "iso3": "BRB",
+    "iso2": "BB",
+    "country": "Barbados",
+    "population": 282336,
+    "weight": 3.24e-06,
+    "cumulativeWeight": 0.00763521,
+    "capital": "Bridgetown",
+    "capitalLatLng": [
+      13.1,
+      -59.62
+    ],
+    "latLng": [
+      13.16666666,
+      -59.53333333
+    ],
+    "flag": "https://flagcdn.com/bb.svg",
+    "flagEmoji": "\ud83c\udde7\ud83c\udde7",
+    "mapUrl": "https://goo.gl/maps/2m36v8STvbGAWd9c7",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "spotlightCity": "Bridgetown"
+  },
+  {
+    "iso3": "BRN",
+    "iso2": "BN",
+    "country": "Brunei Darussalam",
+    "population": 458949,
+    "weight": 5.27e-06,
+    "cumulativeWeight": 0.00764047,
+    "capital": "Bandar Seri Begawan",
+    "capitalLatLng": [
+      4.88,
+      114.93
+    ],
+    "latLng": [
+      4.5,
+      114.66666666
+    ],
+    "flag": "https://flagcdn.com/bn.svg",
+    "flagEmoji": "\ud83c\udde7\ud83c\uddf3",
+    "mapUrl": "https://goo.gl/maps/4jb4CqBXhr8vNh579",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "spotlightCity": "Bandar Seri Begawan"
+  },
+  {
+    "iso3": "BTN",
+    "iso2": "BT",
+    "country": "Bhutan",
+    "population": 786385,
+    "weight": 9.03e-06,
+    "cumulativeWeight": 0.0076495,
+    "capital": "Thimphu",
+    "capitalLatLng": [
+      27.47,
+      89.63
+    ],
+    "latLng": [
+      27.5,
+      90.5
+    ],
+    "flag": "https://flagcdn.com/bt.svg",
+    "flagEmoji": "\ud83c\udde7\ud83c\uddf9",
+    "mapUrl": "https://goo.gl/maps/VEfXXBftTFLUpNgp8",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "spotlightCity": "Thimphu"
+  },
+  {
+    "iso3": "BWA",
+    "iso2": "BW",
+    "country": "Botswana",
+    "population": 2480244,
+    "weight": 2.847e-05,
+    "cumulativeWeight": 0.00767796,
+    "capital": "Gaborone",
+    "capitalLatLng": [
+      -24.63,
+      25.9
+    ],
+    "latLng": [
+      -22.0,
+      24.0
+    ],
+    "flag": "https://flagcdn.com/bw.svg",
+    "flagEmoji": "\ud83c\udde7\ud83c\uddfc",
+    "mapUrl": "https://goo.gl/maps/E364KeLy6N4JwxwQ8",
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "spotlightCity": "Gaborone"
+  },
+  {
+    "iso3": "CAF",
+    "iso2": "CF",
+    "country": "Central African Republic",
+    "population": 5152421,
+    "weight": 5.914e-05,
+    "cumulativeWeight": 0.0077371,
+    "capital": "Bangui",
+    "capitalLatLng": [
+      4.37,
+      18.58
+    ],
+    "latLng": [
+      7.0,
+      21.0
+    ],
+    "flag": "https://flagcdn.com/cf.svg",
+    "flagEmoji": "\ud83c\udde8\ud83c\uddeb",
+    "mapUrl": "https://goo.gl/maps/51V8dsi2rGYC9n3c9",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "spotlightCity": "Bangui"
+  },
+  {
+    "iso3": "CAN",
+    "iso2": "CA",
+    "country": "Canada",
+    "population": 40097761,
+    "weight": 0.00046021,
+    "cumulativeWeight": 0.00819731,
+    "capital": "Ottawa",
+    "capitalLatLng": [
+      45.42,
+      -75.7
+    ],
+    "latLng": [
+      60.0,
+      -95.0
+    ],
+    "flag": "https://flagcdn.com/ca.svg",
+    "flagEmoji": "\ud83c\udde8\ud83c\udde6",
+    "mapUrl": "https://goo.gl/maps/jmEVLugreeqiZXxbA",
+    "region": "Americas",
+    "subregion": "North America",
+    "spotlightCity": "Ottawa"
+  },
+  {
+    "iso3": "CHE",
+    "iso2": "CH",
+    "country": "Switzerland",
+    "population": 8888093,
+    "weight": 0.00010201,
+    "cumulativeWeight": 0.00829932,
+    "capital": "Bern",
+    "capitalLatLng": [
+      46.92,
+      7.47
+    ],
+    "latLng": [
+      47.0,
+      8.0
+    ],
+    "flag": "https://flagcdn.com/ch.svg",
+    "flagEmoji": "\ud83c\udde8\ud83c\udded",
+    "mapUrl": "https://goo.gl/maps/uVuZcXaxSx5jLyEC9",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "spotlightCity": "Bern"
+  },
+  {
+    "iso3": "CHL",
+    "iso2": "CL",
+    "country": "Chile",
+    "population": 19658835,
+    "weight": 0.00022563,
+    "cumulativeWeight": 0.00852495,
+    "capital": "Santiago",
+    "capitalLatLng": [
+      -33.45,
+      -70.67
+    ],
+    "latLng": [
+      -30.0,
+      -71.0
+    ],
+    "flag": "https://flagcdn.com/cl.svg",
+    "flagEmoji": "\ud83c\udde8\ud83c\uddf1",
+    "mapUrl": "https://goo.gl/maps/XboxyNHh2fAjCPNn9",
+    "region": "Americas",
+    "subregion": "South America",
+    "spotlightCity": "Santiago"
+  },
+  {
+    "iso3": "CHN",
+    "iso2": "CN",
+    "country": "China",
+    "population": 1410710000,
+    "weight": 0.01619106,
+    "cumulativeWeight": 0.02471601,
+    "capital": "Beijing",
+    "capitalLatLng": [
+      39.92,
+      116.38
+    ],
+    "latLng": [
+      35.0,
+      105.0
+    ],
+    "flag": "https://flagcdn.com/cn.svg",
+    "flagEmoji": "\ud83c\udde8\ud83c\uddf3",
+    "mapUrl": "https://goo.gl/maps/p9qC6vgiFRRXzvGi7",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "spotlightCity": "Beijing"
+  },
+  {
+    "iso3": "CIV",
+    "iso2": "CI",
+    "country": "Cote d'Ivoire",
+    "population": 31165654,
+    "weight": 0.0003577,
+    "cumulativeWeight": 0.0250737,
+    "capital": "Yamoussoukro",
+    "capitalLatLng": [
+      6.82,
+      -5.27
+    ],
+    "latLng": [
+      8.0,
+      -5.0
+    ],
+    "flag": "https://flagcdn.com/ci.svg",
+    "flagEmoji": "\ud83c\udde8\ud83c\uddee",
+    "mapUrl": "https://goo.gl/maps/wKsmN7f5qAeNtGjP6",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "spotlightCity": "Yamoussoukro"
+  },
+  {
+    "iso3": "CMR",
+    "iso2": "CM",
+    "country": "Cameroon",
+    "population": 28372687,
+    "weight": 0.00032564,
+    "cumulativeWeight": 0.02539934,
+    "capital": "Yaounde",
+    "capitalLatLng": [
+      3.85,
+      11.5
+    ],
+    "latLng": [
+      6.0,
+      12.0
+    ],
+    "flag": "https://flagcdn.com/cm.svg",
+    "flagEmoji": "\ud83c\udde8\ud83c\uddf2",
+    "mapUrl": "https://goo.gl/maps/JqiipHgFboG3rBJh9",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "spotlightCity": "Yaound\u00e9"
+  },
+  {
+    "iso3": "COD",
+    "iso2": "CD",
+    "country": "Congo, Dem. Rep.",
+    "population": 105789731,
+    "weight": 0.00121417,
+    "cumulativeWeight": 0.02661352,
+    "capital": "Kinshasa",
+    "capitalLatLng": [
+      -4.32,
+      15.3
+    ],
+    "latLng": [
+      0.0,
+      25.0
+    ],
+    "flag": "https://flagcdn.com/cd.svg",
+    "flagEmoji": "\ud83c\udde8\ud83c\udde9",
+    "mapUrl": "https://goo.gl/maps/KfhNVn6VqdZXWu8n9",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "spotlightCity": "Kinshasa"
+  },
+  {
+    "iso3": "COG",
+    "iso2": "CG",
+    "country": "Congo, Rep.",
+    "population": 6182885,
+    "weight": 7.096e-05,
+    "cumulativeWeight": 0.02668448,
+    "capital": "Brazzaville",
+    "capitalLatLng": [
+      -4.25,
+      15.28
+    ],
+    "latLng": [
+      -1.0,
+      15.0
+    ],
+    "flag": "https://flagcdn.com/cg.svg",
+    "flagEmoji": "\ud83c\udde8\ud83c\uddec",
+    "mapUrl": "https://goo.gl/maps/Phf5dDDKdfCtuBTb6",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "spotlightCity": "Brazzaville"
+  },
+  {
+    "iso3": "COL",
+    "iso2": "CO",
+    "country": "Colombia",
+    "population": 52321152,
+    "weight": 0.0006005,
+    "cumulativeWeight": 0.02728498,
+    "capital": "Bogota",
+    "capitalLatLng": [
+      4.71,
+      -74.07
+    ],
+    "latLng": [
+      4.0,
+      -72.0
+    ],
+    "flag": "https://flagcdn.com/co.svg",
+    "flagEmoji": "\ud83c\udde8\ud83c\uddf4",
+    "mapUrl": "https://goo.gl/maps/zix9qNFX69E9yZ2M6",
+    "region": "Americas",
+    "subregion": "South America",
+    "spotlightCity": "Bogot\u00e1"
+  },
+  {
+    "iso3": "COM",
+    "iso2": "KM",
+    "country": "Comoros",
+    "population": 850387,
+    "weight": 9.76e-06,
+    "cumulativeWeight": 0.02729474,
+    "capital": "Moroni",
+    "capitalLatLng": [
+      -11.7,
+      43.23
+    ],
+    "latLng": [
+      -12.16666666,
+      44.25
+    ],
+    "flag": "https://flagcdn.com/km.svg",
+    "flagEmoji": "\ud83c\uddf0\ud83c\uddf2",
+    "mapUrl": "https://goo.gl/maps/eas4GP28C1GyStnu6",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "spotlightCity": "Moroni"
+  },
+  {
+    "iso3": "CPV",
+    "iso2": "CV",
+    "country": "Cabo Verde",
+    "population": 522331,
+    "weight": 5.99e-06,
+    "cumulativeWeight": 0.02730074,
+    "capital": "Praia",
+    "capitalLatLng": [
+      14.92,
+      -23.52
+    ],
+    "latLng": [
+      16.5388,
+      -23.0418
+    ],
+    "flag": "https://flagcdn.com/cv.svg",
+    "flagEmoji": "\ud83c\udde8\ud83c\uddfb",
+    "mapUrl": "https://goo.gl/maps/Kc9vy5ChjuiAgMfXA",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "spotlightCity": "Praia"
+  },
+  {
+    "iso3": "CRI",
+    "iso2": "CR",
+    "country": "Costa Rica",
+    "population": 5105525,
+    "weight": 5.86e-05,
+    "cumulativeWeight": 0.02735933,
+    "capital": "San Jose",
+    "capitalLatLng": [
+      9.93,
+      -84.09
+    ],
+    "latLng": [
+      10.0,
+      -84.0
+    ],
+    "flag": "https://flagcdn.com/cr.svg",
+    "flagEmoji": "\ud83c\udde8\ud83c\uddf7",
+    "mapUrl": "https://goo.gl/maps/RFiwytjvNrpfKN7k6",
+    "region": "Americas",
+    "subregion": "Central America",
+    "spotlightCity": "San Jos\u00e9"
+  },
+  {
+    "iso3": "CUB",
+    "iso2": "CU",
+    "country": "Cuba",
+    "population": 11019931,
+    "weight": 0.00012648,
+    "cumulativeWeight": 0.02748581,
+    "capital": "Havana",
+    "capitalLatLng": [
+      23.12,
+      -82.35
+    ],
+    "latLng": [
+      21.5,
+      -80.0
+    ],
+    "flag": "https://flagcdn.com/cu.svg",
+    "flagEmoji": "\ud83c\udde8\ud83c\uddfa",
+    "mapUrl": "https://goo.gl/maps/1dDw1QfZspfMUTm99",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "spotlightCity": "Havana"
+  },
+  {
+    "iso3": "CUW",
+    "iso2": "CW",
+    "country": "Curacao",
+    "population": 147862,
+    "weight": 1.7e-06,
+    "cumulativeWeight": 0.02748751,
+    "capital": " Willemstad",
+    "capitalLatLng": [
+      12.1,
+      -68.92
+    ],
+    "latLng": [
+      12.116667,
+      -68.933333
+    ],
+    "flag": "https://flagcdn.com/cw.svg",
+    "flagEmoji": "\ud83c\udde8\ud83c\uddfc",
+    "mapUrl": "https://goo.gl/maps/9D3hTeA3qKaRT7S16",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "spotlightCity": "Willemstad"
+  },
+  {
+    "iso3": "CYM",
+    "iso2": "KY",
+    "country": "Cayman Islands",
+    "population": 73038,
+    "weight": 8.4e-07,
+    "cumulativeWeight": 0.02748835,
+    "capital": "George Town",
+    "capitalLatLng": [
+      19.3,
+      -81.38
+    ],
+    "latLng": [
+      19.3133,
+      -81.2546
+    ],
+    "flag": "https://flagcdn.com/ky.svg",
+    "flagEmoji": "\ud83c\uddf0\ud83c\uddfe",
+    "mapUrl": "https://goo.gl/maps/P3ZVXX3LH63t91hL8",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "spotlightCity": "George Town"
+  },
+  {
+    "iso3": "CYP",
+    "iso2": "CY",
+    "country": "Cyprus",
+    "population": 1344976,
+    "weight": 1.544e-05,
+    "cumulativeWeight": 0.02750378,
+    "capital": "Nicosia",
+    "capitalLatLng": [
+      35.17,
+      33.37
+    ],
+    "latLng": [
+      35.0,
+      33.0
+    ],
+    "flag": "https://flagcdn.com/cy.svg",
+    "flagEmoji": "\ud83c\udde8\ud83c\uddfe",
+    "mapUrl": "https://goo.gl/maps/77hPBRdLid8yD5Bm7",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "spotlightCity": "Nicosia"
+  },
+  {
+    "iso3": "CZE",
+    "iso2": "CZ",
+    "country": "Czechia",
+    "population": 10864042,
+    "weight": 0.00012469,
+    "cumulativeWeight": 0.02762847,
+    "capital": "Prague",
+    "capitalLatLng": [
+      50.08,
+      14.47
+    ],
+    "latLng": [
+      49.75,
+      15.5
+    ],
+    "flag": "https://flagcdn.com/cz.svg",
+    "flagEmoji": "\ud83c\udde8\ud83c\uddff",
+    "mapUrl": "https://goo.gl/maps/47dmgeXMZyhDHyQW8",
+    "region": "Europe",
+    "subregion": "Central Europe",
+    "spotlightCity": "Prague"
+  },
+  {
+    "iso3": "DEU",
+    "iso2": "DE",
+    "country": "Germany",
+    "population": 83280000,
+    "weight": 0.00095582,
+    "cumulativeWeight": 0.0285843,
+    "capital": "Berlin",
+    "capitalLatLng": [
+      52.52,
+      13.4
+    ],
+    "latLng": [
+      51.0,
+      9.0
+    ],
+    "flag": "https://flagcdn.com/de.svg",
+    "flagEmoji": "\ud83c\udde9\ud83c\uddea",
+    "mapUrl": "https://goo.gl/maps/mD9FBMq1nvXUBrkv6",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "spotlightCity": "Berlin"
+  },
+  {
+    "iso3": "DJI",
+    "iso2": "DJ",
+    "country": "Djibouti",
+    "population": 1152944,
+    "weight": 1.323e-05,
+    "cumulativeWeight": 0.02859753,
+    "capital": "Djibouti",
+    "capitalLatLng": [
+      11.58,
+      43.15
+    ],
+    "latLng": [
+      11.5,
+      43.0
+    ],
+    "flag": "https://flagcdn.com/dj.svg",
+    "flagEmoji": "\ud83c\udde9\ud83c\uddef",
+    "mapUrl": "https://goo.gl/maps/V1HWfzN3bS1kwf4C6",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "spotlightCity": "Djibouti"
+  },
+  {
+    "iso3": "DMA",
+    "iso2": "DM",
+    "country": "Dominica",
+    "population": 66510,
+    "weight": 7.6e-07,
+    "cumulativeWeight": 0.02859829,
+    "capital": "Roseau",
+    "capitalLatLng": [
+      15.3,
+      -61.4
+    ],
+    "latLng": [
+      15.41666666,
+      -61.33333333
+    ],
+    "flag": "https://flagcdn.com/dm.svg",
+    "flagEmoji": "\ud83c\udde9\ud83c\uddf2",
+    "mapUrl": "https://goo.gl/maps/HSKdHYpFC8oHHuyV7",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "spotlightCity": "Roseau"
+  },
+  {
+    "iso3": "DNK",
+    "iso2": "DK",
+    "country": "Denmark",
+    "population": 5946952,
+    "weight": 6.825e-05,
+    "cumulativeWeight": 0.02866655,
+    "capital": "Copenhagen",
+    "capitalLatLng": [
+      55.67,
+      12.58
+    ],
+    "latLng": [
+      56.0,
+      10.0
+    ],
+    "flag": "https://flagcdn.com/dk.svg",
+    "flagEmoji": "\ud83c\udde9\ud83c\uddf0",
+    "mapUrl": "https://goo.gl/maps/UddGPN7hAyrtpFiT6",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "spotlightCity": "Copenhagen"
+  },
+  {
+    "iso3": "DOM",
+    "iso2": "DO",
+    "country": "Dominican Republic",
+    "population": 11331265,
+    "weight": 0.00013005,
+    "cumulativeWeight": 0.0287966,
+    "capital": "Santo Domingo",
+    "capitalLatLng": [
+      18.47,
+      -69.9
+    ],
+    "latLng": [
+      19.0,
+      -70.66666666
+    ],
+    "flag": "https://flagcdn.com/do.svg",
+    "flagEmoji": "\ud83c\udde9\ud83c\uddf4",
+    "mapUrl": "https://goo.gl/maps/soxooTHxEeiAbn3UA",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "spotlightCity": "Santo Domingo"
+  },
+  {
+    "iso3": "DZA",
+    "iso2": "DZ",
+    "country": "Algeria",
+    "population": 46164219,
+    "weight": 0.00052984,
+    "cumulativeWeight": 0.02932644,
+    "capital": "Algiers",
+    "capitalLatLng": [
+      36.75,
+      3.05
+    ],
+    "latLng": [
+      28.0,
+      3.0
+    ],
+    "flag": "https://flagcdn.com/dz.svg",
+    "flagEmoji": "\ud83c\udde9\ud83c\uddff",
+    "mapUrl": "https://goo.gl/maps/RsAyAfyaiNVb8DpW8",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "spotlightCity": "Algiers"
+  },
+  {
+    "iso3": "ECU",
+    "iso2": "EC",
+    "country": "Ecuador",
+    "population": 17980083,
+    "weight": 0.00020636,
+    "cumulativeWeight": 0.0295328,
+    "capital": "Quito",
+    "capitalLatLng": [
+      -0.22,
+      -78.5
+    ],
+    "latLng": [
+      -2.0,
+      -77.5
+    ],
+    "flag": "https://flagcdn.com/ec.svg",
+    "flagEmoji": "\ud83c\uddea\ud83c\udde8",
+    "mapUrl": "https://goo.gl/maps/TbX8hUW4gcbRPZiK7",
+    "region": "Americas",
+    "subregion": "South America",
+    "spotlightCity": "Quito"
+  },
+  {
+    "iso3": "EGY",
+    "iso2": "EG",
+    "country": "Egypt, Arab Rep.",
+    "population": 114535772,
+    "weight": 0.00131455,
+    "cumulativeWeight": 0.03084735,
+    "capital": "Cairo",
+    "capitalLatLng": [
+      30.05,
+      31.25
+    ],
+    "latLng": [
+      27.0,
+      30.0
+    ],
+    "flag": "https://flagcdn.com/eg.svg",
+    "flagEmoji": "\ud83c\uddea\ud83c\uddec",
+    "mapUrl": "https://goo.gl/maps/uoDRhXbsqjG6L7VG7",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "spotlightCity": "Cairo"
+  },
+  {
+    "iso3": "ERI",
+    "iso2": "ER",
+    "country": "Eritrea",
+    "population": 3470390,
+    "weight": 3.983e-05,
+    "cumulativeWeight": 0.03088718,
+    "capital": "Asmara",
+    "capitalLatLng": [
+      15.33,
+      38.93
+    ],
+    "latLng": [
+      15.0,
+      39.0
+    ],
+    "flag": "https://flagcdn.com/er.svg",
+    "flagEmoji": "\ud83c\uddea\ud83c\uddf7",
+    "mapUrl": "https://goo.gl/maps/HRyqUpnPwwG6jY5j6",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "spotlightCity": "Asmara"
+  },
+  {
+    "iso3": "ESP",
+    "iso2": "ES",
+    "country": "Spain",
+    "population": 48347910,
+    "weight": 0.0005549,
+    "cumulativeWeight": 0.03144208,
+    "capital": "Madrid",
+    "capitalLatLng": [
+      40.4,
+      -3.68
+    ],
+    "latLng": [
+      40.0,
+      -4.0
+    ],
+    "flag": "https://flagcdn.com/es.svg",
+    "flagEmoji": "\ud83c\uddea\ud83c\uddf8",
+    "mapUrl": "https://goo.gl/maps/138JaXW8EZzRVitY9",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "spotlightCity": "Madrid"
+  },
+  {
+    "iso3": "EST",
+    "iso2": "EE",
+    "country": "Estonia",
+    "population": 1370286,
+    "weight": 1.573e-05,
+    "cumulativeWeight": 0.03145781,
+    "capital": "Tallinn",
+    "capitalLatLng": [
+      59.43,
+      24.72
+    ],
+    "latLng": [
+      59.0,
+      26.0
+    ],
+    "flag": "https://flagcdn.com/ee.svg",
+    "flagEmoji": "\ud83c\uddea\ud83c\uddea",
+    "mapUrl": "https://goo.gl/maps/6SsynwGUodL1sDvq8",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "spotlightCity": "Tallinn"
+  },
+  {
+    "iso3": "ETH",
+    "iso2": "ET",
+    "country": "Ethiopia",
+    "population": 128691692,
+    "weight": 0.00147703,
+    "cumulativeWeight": 0.03293484,
+    "capital": "Addis Ababa",
+    "capitalLatLng": [
+      9.03,
+      38.7
+    ],
+    "latLng": [
+      8.0,
+      38.0
+    ],
+    "flag": "https://flagcdn.com/et.svg",
+    "flagEmoji": "\ud83c\uddea\ud83c\uddf9",
+    "mapUrl": "https://goo.gl/maps/2Q4hQWCbhuZLj3fG6",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "spotlightCity": "Addis Ababa"
+  },
+  {
+    "iso3": "FIN",
+    "iso2": "FI",
+    "country": "Finland",
+    "population": 5583911,
+    "weight": 6.409e-05,
+    "cumulativeWeight": 0.03299893,
+    "capital": "Helsinki",
+    "capitalLatLng": [
+      60.17,
+      24.93
+    ],
+    "latLng": [
+      64.0,
+      26.0
+    ],
+    "flag": "https://flagcdn.com/fi.svg",
+    "flagEmoji": "\ud83c\uddeb\ud83c\uddee",
+    "mapUrl": "https://goo.gl/maps/HjgWDCNKRAYHrkMn8",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "spotlightCity": "Helsinki"
+  },
+  {
+    "iso3": "FJI",
+    "iso2": "FJ",
+    "country": "Fiji",
+    "population": 924145,
+    "weight": 1.061e-05,
+    "cumulativeWeight": 0.03300953,
+    "capital": "Suva",
+    "capitalLatLng": [
+      -18.13,
+      178.42
+    ],
+    "latLng": [
+      -17.7134,
+      178.065
+    ],
+    "flag": "https://flagcdn.com/fj.svg",
+    "flagEmoji": "\ud83c\uddeb\ud83c\uddef",
+    "mapUrl": "https://goo.gl/maps/r9fhDqoLZdg1zmE99",
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "spotlightCity": "Suva"
+  },
+  {
+    "iso3": "FRA",
+    "iso2": "FR",
+    "country": "France",
+    "population": 68287487,
+    "weight": 0.00078375,
+    "cumulativeWeight": 0.03379328,
+    "capital": "Paris",
+    "capitalLatLng": [
+      48.87,
+      2.33
+    ],
+    "latLng": [
+      46.0,
+      2.0
+    ],
+    "flag": "https://flagcdn.com/fr.svg",
+    "flagEmoji": "\ud83c\uddeb\ud83c\uddf7",
+    "mapUrl": "https://goo.gl/maps/g7QxxSFsWyTPKuzd7",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "spotlightCity": "Paris"
+  },
+  {
+    "iso3": "FRO",
+    "iso2": "FO",
+    "country": "Faroe Islands",
+    "population": 54482,
+    "weight": 6.3e-07,
+    "cumulativeWeight": 0.03379391,
+    "capital": "Torshavn",
+    "capitalLatLng": [
+      62.01,
+      -6.77
+    ],
+    "latLng": [
+      62.0,
+      -7.0
+    ],
+    "flag": "https://flagcdn.com/fo.svg",
+    "flagEmoji": "\ud83c\uddeb\ud83c\uddf4",
+    "mapUrl": "https://goo.gl/maps/6sTru4SmHdEVcNkM6",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "spotlightCity": "T\u00f3rshavn"
+  },
+  {
+    "iso3": "FSM",
+    "iso2": "FM",
+    "country": "Micronesia, Fed. Sts.",
+    "population": 112630,
+    "weight": 1.29e-06,
+    "cumulativeWeight": 0.0337952,
+    "capital": "Palikir",
+    "capitalLatLng": [
+      6.92,
+      158.15
+    ],
+    "latLng": [
+      6.91666666,
+      158.25
+    ],
+    "flag": "https://flagcdn.com/fm.svg",
+    "flagEmoji": "\ud83c\uddeb\ud83c\uddf2",
+    "mapUrl": "https://goo.gl/maps/LLcnofC5LxZsJXTo8",
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "spotlightCity": "Palikir"
+  },
+  {
+    "iso3": "GAB",
+    "iso2": "GA",
+    "country": "Gabon",
+    "population": 2484789,
+    "weight": 2.852e-05,
+    "cumulativeWeight": 0.03382372,
+    "capital": "Libreville",
+    "capitalLatLng": [
+      0.38,
+      9.45
+    ],
+    "latLng": [
+      -1.0,
+      11.75
+    ],
+    "flag": "https://flagcdn.com/ga.svg",
+    "flagEmoji": "\ud83c\uddec\ud83c\udde6",
+    "mapUrl": "https://goo.gl/maps/vyRSkqw1H1fnq4ry6",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "spotlightCity": "Libreville"
+  },
+  {
+    "iso3": "GBR",
+    "iso2": "GB",
+    "country": "United Kingdom",
+    "population": 68350000,
+    "weight": 0.00078447,
+    "cumulativeWeight": 0.03460819,
+    "capital": "London",
+    "capitalLatLng": [
+      51.5,
+      -0.08
+    ],
+    "latLng": [
+      54.0,
+      -2.0
+    ],
+    "flag": "https://flagcdn.com/gb.svg",
+    "flagEmoji": "\ud83c\uddec\ud83c\udde7",
+    "mapUrl": "https://goo.gl/maps/FoDtc3UKMkFsXAjHA",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "spotlightCity": "London"
+  },
+  {
+    "iso3": "GEO",
+    "iso2": "GE",
+    "country": "Georgia",
+    "population": 3715483,
+    "weight": 4.264e-05,
+    "cumulativeWeight": 0.03465083,
+    "capital": "Tbilisi",
+    "capitalLatLng": [
+      41.68,
+      44.83
+    ],
+    "latLng": [
+      42.0,
+      43.5
+    ],
+    "flag": "https://flagcdn.com/ge.svg",
+    "flagEmoji": "\ud83c\uddec\ud83c\uddea",
+    "mapUrl": "https://goo.gl/maps/bvCaGBePR1ZEDK5cA",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "spotlightCity": "Tbilisi"
+  },
+  {
+    "iso3": "GHA",
+    "iso2": "GH",
+    "country": "Ghana",
+    "population": 33787914,
+    "weight": 0.00038779,
+    "cumulativeWeight": 0.03503862,
+    "capital": "Accra",
+    "capitalLatLng": [
+      5.55,
+      -0.22
+    ],
+    "latLng": [
+      8.0,
+      -2.0
+    ],
+    "flag": "https://flagcdn.com/gh.svg",
+    "flagEmoji": "\ud83c\uddec\ud83c\udded",
+    "mapUrl": "https://goo.gl/maps/Avy5RSmdsXFBaiXq8",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "spotlightCity": "Accra"
+  },
+  {
+    "iso3": "GIB",
+    "iso2": "GI",
+    "country": "Gibraltar",
+    "population": 38471,
+    "weight": 4.4e-07,
+    "cumulativeWeight": 0.03503907,
+    "capital": "Gibraltar",
+    "capitalLatLng": [
+      36.13,
+      -5.35
+    ],
+    "latLng": [
+      36.13333333,
+      -5.35
+    ],
+    "flag": "https://flagcdn.com/gi.svg",
+    "flagEmoji": "\ud83c\uddec\ud83c\uddee",
+    "mapUrl": "https://goo.gl/maps/CEoHAs1t6byCBhHFA",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "spotlightCity": "Gibraltar"
+  },
+  {
+    "iso3": "GIN",
+    "iso2": "GN",
+    "country": "Guinea",
+    "population": 14405468,
+    "weight": 0.00016533,
+    "cumulativeWeight": 0.0352044,
+    "capital": "Conakry",
+    "capitalLatLng": [
+      9.5,
+      -13.7
+    ],
+    "latLng": [
+      11.0,
+      -10.0
+    ],
+    "flag": "https://flagcdn.com/gn.svg",
+    "flagEmoji": "\ud83c\uddec\ud83c\uddf3",
+    "mapUrl": "https://goo.gl/maps/8J5oM5sA4Ayr1ZYGA",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "spotlightCity": "Conakry"
+  },
+  {
+    "iso3": "GMB",
+    "iso2": "GM",
+    "country": "Gambia, The",
+    "population": 2697845,
+    "weight": 3.096e-05,
+    "cumulativeWeight": 0.03523536,
+    "capital": "Banjul",
+    "capitalLatLng": [
+      13.45,
+      -16.57
+    ],
+    "latLng": [
+      13.46666666,
+      -16.56666666
+    ],
+    "flag": "https://flagcdn.com/gm.svg",
+    "flagEmoji": "\ud83c\uddec\ud83c\uddf2",
+    "mapUrl": "https://goo.gl/maps/bbGBCxxtfD2A9Z4m6",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "spotlightCity": "Banjul"
+  },
+  {
+    "iso3": "GNB",
+    "iso2": "GW",
+    "country": "Guinea-Bissau",
+    "population": 2153339,
+    "weight": 2.471e-05,
+    "cumulativeWeight": 0.03526008,
+    "capital": "Bissau",
+    "capitalLatLng": [
+      11.85,
+      -15.58
+    ],
+    "latLng": [
+      12.0,
+      -15.0
+    ],
+    "flag": "https://flagcdn.com/gw.svg",
+    "flagEmoji": "\ud83c\uddec\ud83c\uddfc",
+    "mapUrl": "https://goo.gl/maps/5Wyaz17miUc1zLc67",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "spotlightCity": "Bissau"
+  },
+  {
+    "iso3": "GNQ",
+    "iso2": "GQ",
+    "country": "Equatorial Guinea",
+    "population": 1847549,
+    "weight": 2.12e-05,
+    "cumulativeWeight": 0.03528128,
+    "capital": "Malabo",
+    "capitalLatLng": [
+      3.75,
+      8.78
+    ],
+    "latLng": [
+      2.0,
+      10.0
+    ],
+    "flag": "https://flagcdn.com/gq.svg",
+    "flagEmoji": "\ud83c\uddec\ud83c\uddf6",
+    "mapUrl": "https://goo.gl/maps/ucWfFd8aW1FbGMva9",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "spotlightCity": "Malabo"
+  },
+  {
+    "iso3": "GRC",
+    "iso2": "GR",
+    "country": "Greece",
+    "population": 10405588,
+    "weight": 0.00011943,
+    "cumulativeWeight": 0.03540071,
+    "capital": "Athens",
+    "capitalLatLng": [
+      37.98,
+      23.73
+    ],
+    "latLng": [
+      39.0,
+      22.0
+    ],
+    "flag": "https://flagcdn.com/gr.svg",
+    "flagEmoji": "\ud83c\uddec\ud83c\uddf7",
+    "mapUrl": "https://goo.gl/maps/LHGcAvuRyD2iKECC6",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "spotlightCity": "Athens"
+  },
+  {
+    "iso3": "GRD",
+    "iso2": "GD",
+    "country": "Grenada",
+    "population": 117081,
+    "weight": 1.34e-06,
+    "cumulativeWeight": 0.03540206,
+    "capital": "St. George's",
+    "capitalLatLng": [
+      32.38,
+      -64.68
+    ],
+    "latLng": [
+      12.11666666,
+      -61.66666666
+    ],
+    "flag": "https://flagcdn.com/gd.svg",
+    "flagEmoji": "\ud83c\uddec\ud83c\udde9",
+    "mapUrl": "https://goo.gl/maps/rqWyfUAt4xhvk1Zy9",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "spotlightCity": "St. George's"
+  },
+  {
+    "iso3": "GRL",
+    "iso2": "GL",
+    "country": "Greenland",
+    "population": 56865,
+    "weight": 6.5e-07,
+    "cumulativeWeight": 0.03540271,
+    "capital": "Nuuk",
+    "capitalLatLng": [
+      64.18,
+      -51.75
+    ],
+    "latLng": [
+      72.0,
+      -40.0
+    ],
+    "flag": "https://flagcdn.com/gl.svg",
+    "flagEmoji": "\ud83c\uddec\ud83c\uddf1",
+    "mapUrl": "https://goo.gl/maps/j3289UPEQXt1ceSy8",
+    "region": "Americas",
+    "subregion": "North America",
+    "spotlightCity": "Nuuk"
+  },
+  {
+    "iso3": "GTM",
+    "iso2": "GT",
+    "country": "Guatemala",
+    "population": 18124838,
+    "weight": 0.00020802,
+    "cumulativeWeight": 0.03561073,
+    "capital": "Guatemala City",
+    "capitalLatLng": [
+      14.62,
+      -90.52
+    ],
+    "latLng": [
+      15.5,
+      -90.25
+    ],
+    "flag": "https://flagcdn.com/gt.svg",
+    "flagEmoji": "\ud83c\uddec\ud83c\uddf9",
+    "mapUrl": "https://goo.gl/maps/JoRAbem4Hxb9FYbVA",
+    "region": "Americas",
+    "subregion": "Central America",
+    "spotlightCity": "Guatemala City"
+  },
+  {
+    "iso3": "GUM",
+    "iso2": "GU",
+    "country": "Guam",
+    "population": 166506,
+    "weight": 1.91e-06,
+    "cumulativeWeight": 0.03561264,
+    "capital": "Hagatna",
+    "capitalLatLng": [
+      13.48,
+      144.75
+    ],
+    "latLng": [
+      13.46666666,
+      144.78333333
+    ],
+    "flag": "https://flagcdn.com/gu.svg",
+    "flagEmoji": "\ud83c\uddec\ud83c\uddfa",
+    "mapUrl": "https://goo.gl/maps/Xfnq2i279b18cH3C9",
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "spotlightCity": "Hag\u00e5t\u00f1a"
+  },
+  {
+    "iso3": "GUY",
+    "iso2": "GY",
+    "country": "Guyana",
+    "population": 826353,
+    "weight": 9.48e-06,
+    "cumulativeWeight": 0.03562213,
+    "capital": "Georgetown",
+    "capitalLatLng": [
+      6.8,
+      -58.15
+    ],
+    "latLng": [
+      5.0,
+      -59.0
+    ],
+    "flag": "https://flagcdn.com/gy.svg",
+    "flagEmoji": "\ud83c\uddec\ud83c\uddfe",
+    "mapUrl": "https://goo.gl/maps/DFsme2xEeugUAsCx5",
+    "region": "Americas",
+    "subregion": "South America",
+    "spotlightCity": "Georgetown"
+  },
+  {
+    "iso3": "HKG",
+    "iso2": "HK",
+    "country": "Hong Kong SAR, China",
+    "population": 7536100,
+    "weight": 8.649e-05,
+    "cumulativeWeight": 0.03570862,
+    "capital": "Hong Kong",
+    "capitalLatLng": [
+      22.267,
+      114.188
+    ],
+    "latLng": [
+      22.267,
+      114.188
+    ],
+    "flag": "https://flagcdn.com/hk.svg",
+    "flagEmoji": "\ud83c\udded\ud83c\uddf0",
+    "mapUrl": "https://goo.gl/maps/1sEnNmT47ffrC8MU8",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "spotlightCity": "City of Victoria"
+  },
+  {
+    "iso3": "HND",
+    "iso2": "HN",
+    "country": "Honduras",
+    "population": 10644851,
+    "weight": 0.00012217,
+    "cumulativeWeight": 0.03583079,
+    "capital": "Tegucigalpa",
+    "capitalLatLng": [
+      14.1,
+      -87.22
+    ],
+    "latLng": [
+      15.0,
+      -86.5
+    ],
+    "flag": "https://flagcdn.com/hn.svg",
+    "flagEmoji": "\ud83c\udded\ud83c\uddf3",
+    "mapUrl": "https://goo.gl/maps/BbeJK8Sk2VkMHbdF8",
+    "region": "Americas",
+    "subregion": "Central America",
+    "spotlightCity": "Tegucigalpa"
+  },
+  {
+    "iso3": "HRV",
+    "iso2": "HR",
+    "country": "Croatia",
+    "population": 3859686,
+    "weight": 4.43e-05,
+    "cumulativeWeight": 0.03587509,
+    "capital": "Zagreb",
+    "capitalLatLng": [
+      45.8,
+      16.0
+    ],
+    "latLng": [
+      45.16666666,
+      15.5
+    ],
+    "flag": "https://flagcdn.com/hr.svg",
+    "flagEmoji": "\ud83c\udded\ud83c\uddf7",
+    "mapUrl": "https://goo.gl/maps/qSG6xTKUmrYpwmGQ6",
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "spotlightCity": "Zagreb"
+  },
+  {
+    "iso3": "HTI",
+    "iso2": "HT",
+    "country": "Haiti",
+    "population": 11637398,
+    "weight": 0.00013357,
+    "cumulativeWeight": 0.03600866,
+    "capital": "Port-au-Prince",
+    "capitalLatLng": [
+      18.53,
+      -72.33
+    ],
+    "latLng": [
+      19.0,
+      -72.41666666
+    ],
+    "flag": "https://flagcdn.com/ht.svg",
+    "flagEmoji": "\ud83c\udded\ud83c\uddf9",
+    "mapUrl": "https://goo.gl/maps/9o13xtjuUdqFnHbn9",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "spotlightCity": "Port-au-Prince"
+  },
+  {
+    "iso3": "HUN",
+    "iso2": "HU",
+    "country": "Hungary",
+    "population": 9592186,
+    "weight": 0.00011009,
+    "cumulativeWeight": 0.03611875,
+    "capital": "Budapest",
+    "capitalLatLng": [
+      47.5,
+      19.08
+    ],
+    "latLng": [
+      47.0,
+      20.0
+    ],
+    "flag": "https://flagcdn.com/hu.svg",
+    "flagEmoji": "\ud83c\udded\ud83c\uddfa",
+    "mapUrl": "https://goo.gl/maps/9gfPupm5bffixiFJ6",
+    "region": "Europe",
+    "subregion": "Central Europe",
+    "spotlightCity": "Budapest"
+  },
+  {
+    "iso3": "IDN",
+    "iso2": "ID",
+    "country": "Indonesia",
+    "population": 281190067,
+    "weight": 0.00322729,
+    "cumulativeWeight": 0.03934603,
+    "capital": "Jakarta",
+    "capitalLatLng": [
+      -6.17,
+      106.82
+    ],
+    "latLng": [
+      -5.0,
+      120.0
+    ],
+    "flag": "https://flagcdn.com/id.svg",
+    "flagEmoji": "\ud83c\uddee\ud83c\udde9",
+    "mapUrl": "https://goo.gl/maps/9gfPupm5bffixiFJ6",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "spotlightCity": "Jakarta"
+  },
+  {
+    "iso3": "IMN",
+    "iso2": "IM",
+    "country": "Isle of Man",
+    "population": 84165,
+    "weight": 9.7e-07,
+    "cumulativeWeight": 0.039347,
+    "capital": "Douglas",
+    "capitalLatLng": [
+      54.15,
+      -4.48
+    ],
+    "latLng": [
+      54.25,
+      -4.5
+    ],
+    "flag": "https://flagcdn.com/im.svg",
+    "flagEmoji": "\ud83c\uddee\ud83c\uddf2",
+    "mapUrl": "https://goo.gl/maps/4DqVHDgVaFgnh8ZV8",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "spotlightCity": "Douglas"
+  },
+  {
+    "iso3": "IND",
+    "iso2": "IN",
+    "country": "India",
+    "population": 1438069596,
+    "weight": 0.01650507,
+    "cumulativeWeight": 0.05585207,
+    "capital": "New Delhi",
+    "capitalLatLng": [
+      28.6,
+      77.2
+    ],
+    "latLng": [
+      20.0,
+      77.0
+    ],
+    "flag": "https://flagcdn.com/in.svg",
+    "flagEmoji": "\ud83c\uddee\ud83c\uddf3",
+    "mapUrl": "https://goo.gl/maps/WSk3fLwG4vtPQetp7",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "spotlightCity": "New Delhi"
+  },
+  {
+    "iso3": "IRL",
+    "iso2": "IE",
+    "country": "Ireland",
+    "population": 5307600,
+    "weight": 6.092e-05,
+    "cumulativeWeight": 0.05591299,
+    "capital": "Dublin",
+    "capitalLatLng": [
+      53.32,
+      -6.23
+    ],
+    "latLng": [
+      53.0,
+      -8.0
+    ],
+    "flag": "https://flagcdn.com/ie.svg",
+    "flagEmoji": "\ud83c\uddee\ud83c\uddea",
+    "mapUrl": "https://goo.gl/maps/hxd1BKxgpchStzQC6",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "spotlightCity": "Dublin"
+  },
+  {
+    "iso3": "IRN",
+    "iso2": "IR",
+    "country": "Iran, Islamic Rep.",
+    "population": 90608707,
+    "weight": 0.00103994,
+    "cumulativeWeight": 0.05695292,
+    "capital": "Tehran",
+    "capitalLatLng": [
+      35.7,
+      51.42
+    ],
+    "latLng": [
+      32.0,
+      53.0
+    ],
+    "flag": "https://flagcdn.com/ir.svg",
+    "flagEmoji": "\ud83c\uddee\ud83c\uddf7",
+    "mapUrl": "https://goo.gl/maps/dMgEGuacBPGYQnjY7",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "spotlightCity": "Tehran"
+  },
+  {
+    "iso3": "IRQ",
+    "iso2": "IQ",
+    "country": "Iraq",
+    "population": 45074049,
+    "weight": 0.00051733,
+    "cumulativeWeight": 0.05747025,
+    "capital": "Baghdad",
+    "capitalLatLng": [
+      33.33,
+      44.4
+    ],
+    "latLng": [
+      33.0,
+      44.0
+    ],
+    "flag": "https://flagcdn.com/iq.svg",
+    "flagEmoji": "\ud83c\uddee\ud83c\uddf6",
+    "mapUrl": "https://goo.gl/maps/iL8Bmy1sUCW9fUk18",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "spotlightCity": "Baghdad"
+  },
+  {
+    "iso3": "ISL",
+    "iso2": "IS",
+    "country": "Iceland",
+    "population": 393349,
+    "weight": 4.51e-06,
+    "cumulativeWeight": 0.05747476,
+    "capital": "Reykjavik",
+    "capitalLatLng": [
+      64.15,
+      -21.95
+    ],
+    "latLng": [
+      65.0,
+      -18.0
+    ],
+    "flag": "https://flagcdn.com/is.svg",
+    "flagEmoji": "\ud83c\uddee\ud83c\uddf8",
+    "mapUrl": "https://goo.gl/maps/WxFWSQuc3oamNxoE6",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "spotlightCity": "Reykjavik"
+  },
+  {
+    "iso3": "ISR",
+    "iso2": "IL",
+    "country": "Israel",
+    "population": 9756600,
+    "weight": 0.00011198,
+    "cumulativeWeight": 0.05758674,
+    "capital": "Jerusalem",
+    "capitalLatLng": [
+      31.77,
+      35.23
+    ],
+    "latLng": [
+      31.47,
+      35.13
+    ],
+    "flag": "https://flagcdn.com/il.svg",
+    "flagEmoji": "\ud83c\uddee\ud83c\uddf1",
+    "mapUrl": "https://goo.gl/maps/6UY1AH8XeafVwdC97",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "spotlightCity": "Jerusalem"
+  },
+  {
+    "iso3": "ITA",
+    "iso2": "IT",
+    "country": "Italy",
+    "population": 58993475,
+    "weight": 0.00067708,
+    "cumulativeWeight": 0.05826382,
+    "capital": "Rome",
+    "capitalLatLng": [
+      41.9,
+      12.48
+    ],
+    "latLng": [
+      42.83333333,
+      12.83333333
+    ],
+    "flag": "https://flagcdn.com/it.svg",
+    "flagEmoji": "\ud83c\uddee\ud83c\uddf9",
+    "mapUrl": "https://goo.gl/maps/8M1K27TDj7StTRTq8",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "spotlightCity": "Rome"
+  },
+  {
+    "iso3": "JAM",
+    "iso2": "JM",
+    "country": "Jamaica",
+    "population": 2839786,
+    "weight": 3.259e-05,
+    "cumulativeWeight": 0.05829642,
+    "capital": "Kingston",
+    "capitalLatLng": [
+      17.99702,
+      -76.79358
+    ],
+    "latLng": [
+      18.25,
+      -77.5
+    ],
+    "flag": "https://flagcdn.com/jm.svg",
+    "flagEmoji": "\ud83c\uddef\ud83c\uddf2",
+    "mapUrl": "https://goo.gl/maps/Z8mQ6jxnRQKFwJy9A",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "spotlightCity": "Kingston"
+  },
+  {
+    "iso3": "JOR",
+    "iso2": "JO",
+    "country": "Jordan",
+    "population": 11439213,
+    "weight": 0.00013129,
+    "cumulativeWeight": 0.05842771,
+    "capital": "Amman",
+    "capitalLatLng": [
+      31.95,
+      35.93
+    ],
+    "latLng": [
+      31.0,
+      36.0
+    ],
+    "flag": "https://flagcdn.com/jo.svg",
+    "flagEmoji": "\ud83c\uddef\ud83c\uddf4",
+    "mapUrl": "https://goo.gl/maps/ko1dzSDKg8Gsi9A98",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "spotlightCity": "Amman"
+  },
+  {
+    "iso3": "JPN",
+    "iso2": "JP",
+    "country": "Japan",
+    "population": 124516650,
+    "weight": 0.00142911,
+    "cumulativeWeight": 0.05985681,
+    "capital": "Tokyo",
+    "capitalLatLng": [
+      35.68,
+      139.75
+    ],
+    "latLng": [
+      36.0,
+      138.0
+    ],
+    "flag": "https://flagcdn.com/jp.svg",
+    "flagEmoji": "\ud83c\uddef\ud83c\uddf5",
+    "mapUrl": "https://goo.gl/maps/NGTLSCSrA8bMrvnX9",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "spotlightCity": "Tokyo"
+  },
+  {
+    "iso3": "KAZ",
+    "iso2": "KZ",
+    "country": "Kazakhstan",
+    "population": 20330104,
+    "weight": 0.00023333,
+    "cumulativeWeight": 0.06009015,
+    "capital": "Nur-Sultan",
+    "capitalLatLng": [
+      51.16,
+      71.45
+    ],
+    "latLng": [
+      48.0196,
+      66.9237
+    ],
+    "flag": "https://flagcdn.com/kz.svg",
+    "flagEmoji": "\ud83c\uddf0\ud83c\uddff",
+    "mapUrl": "https://goo.gl/maps/8VohJGu7ShuzZYyeA",
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "spotlightCity": "Astana"
+  },
+  {
+    "iso3": "KEN",
+    "iso2": "KE",
+    "country": "Kenya",
+    "population": 55339003,
+    "weight": 0.00063514,
+    "cumulativeWeight": 0.06072529,
+    "capital": "Nairobi",
+    "capitalLatLng": [
+      -1.28,
+      36.82
+    ],
+    "latLng": [
+      1.0,
+      38.0
+    ],
+    "flag": "https://flagcdn.com/ke.svg",
+    "flagEmoji": "\ud83c\uddf0\ud83c\uddea",
+    "mapUrl": "https://goo.gl/maps/Ni9M7wcCxf8bJHLX8",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "spotlightCity": "Nairobi"
+  },
+  {
+    "iso3": "KGZ",
+    "iso2": "KG",
+    "country": "Kyrgyz Republic",
+    "population": 7099750,
+    "weight": 8.149e-05,
+    "cumulativeWeight": 0.06080677,
+    "capital": "Bishkek",
+    "capitalLatLng": [
+      42.87,
+      74.6
+    ],
+    "latLng": [
+      41.0,
+      75.0
+    ],
+    "flag": "https://flagcdn.com/kg.svg",
+    "flagEmoji": "\ud83c\uddf0\ud83c\uddec",
+    "mapUrl": "https://goo.gl/maps/SKG8BSMMQVvxkRkB7",
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "spotlightCity": "Bishkek"
+  },
+  {
+    "iso3": "KHM",
+    "iso2": "KH",
+    "country": "Cambodia",
+    "population": 17423880,
+    "weight": 0.00019998,
+    "cumulativeWeight": 0.06100675,
+    "capital": "Phnom Penh",
+    "capitalLatLng": [
+      11.55,
+      104.92
+    ],
+    "latLng": [
+      13.0,
+      105.0
+    ],
+    "flag": "https://flagcdn.com/kh.svg",
+    "flagEmoji": "\ud83c\uddf0\ud83c\udded",
+    "mapUrl": "https://goo.gl/maps/nztQtFSrUXZymJaW8",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "spotlightCity": "Phnom Penh"
+  },
+  {
+    "iso3": "KIR",
+    "iso2": "KI",
+    "country": "Kiribati",
+    "population": 132530,
+    "weight": 1.52e-06,
+    "cumulativeWeight": 0.06100827,
+    "capital": "Tarawa",
+    "capitalLatLng": [
+      1.33,
+      172.98
+    ],
+    "latLng": [
+      1.41666666,
+      173.0
+    ],
+    "flag": "https://flagcdn.com/ki.svg",
+    "flagEmoji": "\ud83c\uddf0\ud83c\uddee",
+    "mapUrl": "https://goo.gl/maps/NBfYvrndW4skAimw9",
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "spotlightCity": "South Tarawa"
+  },
+  {
+    "iso3": "KNA",
+    "iso2": "KN",
+    "country": "St. Kitts and Nevis",
+    "population": 46758,
+    "weight": 5.4e-07,
+    "cumulativeWeight": 0.06100881,
+    "capital": "Basseterre",
+    "capitalLatLng": [
+      17.3,
+      -62.72
+    ],
+    "latLng": [
+      17.33333333,
+      -62.75
+    ],
+    "flag": "https://flagcdn.com/kn.svg",
+    "flagEmoji": "\ud83c\uddf0\ud83c\uddf3",
+    "mapUrl": "https://goo.gl/maps/qiaVwcLVTXX3eoTNA",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "spotlightCity": "Basseterre"
+  },
+  {
+    "iso3": "KOR",
+    "iso2": "KR",
+    "country": "Korea, Rep.",
+    "population": 51712619,
+    "weight": 0.00059352,
+    "cumulativeWeight": 0.06160233,
+    "capital": "Seoul",
+    "capitalLatLng": [
+      37.55,
+      126.98
+    ],
+    "latLng": [
+      37.0,
+      127.5
+    ],
+    "flag": "https://flagcdn.com/kr.svg",
+    "flagEmoji": "\ud83c\uddf0\ud83c\uddf7",
+    "mapUrl": "https://goo.gl/maps/7ecjaJXefjAQhxjGA",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "spotlightCity": "Seoul"
+  },
+  {
+    "iso3": "KWT",
+    "iso2": "KW",
+    "country": "Kuwait",
+    "population": 4853420,
+    "weight": 5.57e-05,
+    "cumulativeWeight": 0.06165803,
+    "capital": "Kuwait City",
+    "capitalLatLng": [
+      29.37,
+      47.97
+    ],
+    "latLng": [
+      29.5,
+      45.75
+    ],
+    "flag": "https://flagcdn.com/kw.svg",
+    "flagEmoji": "\ud83c\uddf0\ud83c\uddfc",
+    "mapUrl": "https://goo.gl/maps/aqr3aNQjS1BAvksJ7",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "spotlightCity": "Kuwait City"
+  },
+  {
+    "iso3": "LAO",
+    "iso2": "LA",
+    "country": "Lao PDR",
+    "population": 7664993,
+    "weight": 8.797e-05,
+    "cumulativeWeight": 0.061746,
+    "capital": "Vientiane",
+    "capitalLatLng": [
+      17.97,
+      102.6
+    ],
+    "latLng": [
+      18.0,
+      105.0
+    ],
+    "flag": "https://flagcdn.com/la.svg",
+    "flagEmoji": "\ud83c\uddf1\ud83c\udde6",
+    "mapUrl": "https://goo.gl/maps/F3asVB7sRKgSnwbE7",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "spotlightCity": "Vientiane"
+  },
+  {
+    "iso3": "LBN",
+    "iso2": "LB",
+    "country": "Lebanon",
+    "population": 5773493,
+    "weight": 6.626e-05,
+    "cumulativeWeight": 0.06181227,
+    "capital": "Beirut",
+    "capitalLatLng": [
+      33.87,
+      35.5
+    ],
+    "latLng": [
+      33.83333333,
+      35.83333333
+    ],
+    "flag": "https://flagcdn.com/lb.svg",
+    "flagEmoji": "\ud83c\uddf1\ud83c\udde7",
+    "mapUrl": "https://goo.gl/maps/Sz5VCU8UFBqMyTdc9",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "spotlightCity": "Beirut"
+  },
+  {
+    "iso3": "LBR",
+    "iso2": "LR",
+    "country": "Liberia",
+    "population": 5493031,
+    "weight": 6.304e-05,
+    "cumulativeWeight": 0.06187531,
+    "capital": "Monrovia",
+    "capitalLatLng": [
+      6.3,
+      -10.8
+    ],
+    "latLng": [
+      6.5,
+      -9.5
+    ],
+    "flag": "https://flagcdn.com/lr.svg",
+    "flagEmoji": "\ud83c\uddf1\ud83c\uddf7",
+    "mapUrl": "https://goo.gl/maps/4VsHsc2oeGeRL3wg6",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "spotlightCity": "Monrovia"
+  },
+  {
+    "iso3": "LBY",
+    "iso2": "LY",
+    "country": "Libya",
+    "population": 7305659,
+    "weight": 8.385e-05,
+    "cumulativeWeight": 0.06195916,
+    "capital": "Tripoli",
+    "capitalLatLng": [
+      32.88,
+      13.17
+    ],
+    "latLng": [
+      25.0,
+      17.0
+    ],
+    "flag": "https://flagcdn.com/ly.svg",
+    "flagEmoji": "\ud83c\uddf1\ud83c\uddfe",
+    "mapUrl": "https://goo.gl/maps/eLgGnaQWcJEdYRMy5",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "spotlightCity": "Tripoli"
+  },
+  {
+    "iso3": "LCA",
+    "iso2": "LC",
+    "country": "St. Lucia",
+    "population": 179285,
+    "weight": 2.06e-06,
+    "cumulativeWeight": 0.06196122,
+    "capital": "Castries",
+    "capitalLatLng": [
+      14.0,
+      -61.0
+    ],
+    "latLng": [
+      13.88333333,
+      -60.96666666
+    ],
+    "flag": "https://flagcdn.com/lc.svg",
+    "flagEmoji": "\ud83c\uddf1\ud83c\udde8",
+    "mapUrl": "https://goo.gl/maps/4HhJ2jkPdSL9BPRcA",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "spotlightCity": "Castries"
+  },
+  {
+    "iso3": "LIE",
+    "iso2": "LI",
+    "country": "Liechtenstein",
+    "population": 39850,
+    "weight": 4.6e-07,
+    "cumulativeWeight": 0.06196168,
+    "capital": "Vaduz",
+    "capitalLatLng": [
+      47.13,
+      9.52
+    ],
+    "latLng": [
+      47.26666666,
+      9.53333333
+    ],
+    "flag": "https://flagcdn.com/li.svg",
+    "flagEmoji": "\ud83c\uddf1\ud83c\uddee",
+    "mapUrl": "https://goo.gl/maps/KNuHeiJzAPodwM7y6",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "spotlightCity": "Vaduz"
+  },
+  {
+    "iso3": "LKA",
+    "iso2": "LK",
+    "country": "Sri Lanka",
+    "population": 22037000,
+    "weight": 0.00025292,
+    "cumulativeWeight": 0.0622146,
+    "capital": "Colombo",
+    "capitalLatLng": [
+      6.89,
+      79.9
+    ],
+    "latLng": [
+      7.0,
+      81.0
+    ],
+    "flag": "https://flagcdn.com/lk.svg",
+    "flagEmoji": "\ud83c\uddf1\ud83c\uddf0",
+    "mapUrl": "https://goo.gl/maps/VkPHoeFSfgzRQCDv8",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "spotlightCity": "Sri Jayawardenepura Kotte"
+  },
+  {
+    "iso3": "LSO",
+    "iso2": "LS",
+    "country": "Lesotho",
+    "population": 2311472,
+    "weight": 2.653e-05,
+    "cumulativeWeight": 0.06224113,
+    "capital": "Maseru",
+    "capitalLatLng": [
+      -29.32,
+      27.48
+    ],
+    "latLng": [
+      -29.5,
+      28.5
+    ],
+    "flag": "https://flagcdn.com/ls.svg",
+    "flagEmoji": "\ud83c\uddf1\ud83c\uddf8",
+    "mapUrl": "https://goo.gl/maps/H8gJi5mL4Cmd1SF28",
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "spotlightCity": "Maseru"
+  },
+  {
+    "iso3": "LTU",
+    "iso2": "LT",
+    "country": "Lithuania",
+    "population": 2871585,
+    "weight": 3.296e-05,
+    "cumulativeWeight": 0.06227409,
+    "capital": "Vilnius",
+    "capitalLatLng": [
+      54.68,
+      25.32
+    ],
+    "latLng": [
+      56.0,
+      24.0
+    ],
+    "flag": "https://flagcdn.com/lt.svg",
+    "flagEmoji": "\ud83c\uddf1\ud83c\uddf9",
+    "mapUrl": "https://goo.gl/maps/dd1s9rrLjrK2G8yY6",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "spotlightCity": "Vilnius"
+  },
+  {
+    "iso3": "LUX",
+    "iso2": "LU",
+    "country": "Luxembourg",
+    "population": 666430,
+    "weight": 7.65e-06,
+    "cumulativeWeight": 0.06228174,
+    "capital": "Luxembourg",
+    "capitalLatLng": [
+      49.6,
+      6.12
+    ],
+    "latLng": [
+      49.75,
+      6.16666666
+    ],
+    "flag": "https://flagcdn.com/lu.svg",
+    "flagEmoji": "\ud83c\uddf1\ud83c\uddfa",
+    "mapUrl": "https://goo.gl/maps/L6b2AgndgHprt2Ko9",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "spotlightCity": "Luxembourg"
+  },
+  {
+    "iso3": "LVA",
+    "iso2": "LV",
+    "country": "Latvia",
+    "population": 1877445,
+    "weight": 2.155e-05,
+    "cumulativeWeight": 0.06230328,
+    "capital": "Riga",
+    "capitalLatLng": [
+      56.95,
+      24.1
+    ],
+    "latLng": [
+      57.0,
+      25.0
+    ],
+    "flag": "https://flagcdn.com/lv.svg",
+    "flagEmoji": "\ud83c\uddf1\ud83c\uddfb",
+    "mapUrl": "https://goo.gl/maps/iQpUkH7ghq31ZtXe9",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "spotlightCity": "Riga"
+  },
+  {
+    "iso3": "MAC",
+    "iso2": "MO",
+    "country": "Macao SAR, China",
+    "population": 678800,
+    "weight": 7.79e-06,
+    "cumulativeWeight": 0.06231107,
+    "capital": "Macao",
+    "capitalLatLng": [],
+    "latLng": [
+      22.16666666,
+      113.55
+    ],
+    "flag": "https://flagcdn.com/mo.svg",
+    "flagEmoji": "\ud83c\uddf2\ud83c\uddf4",
+    "mapUrl": "https://goo.gl/maps/whymRdk3dZFfAAs4A",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "spotlightCity": null
+  },
+  {
+    "iso3": "MAF",
+    "iso2": "MF",
+    "country": "St. Martin (French part)",
+    "population": 27515,
+    "weight": 3.2e-07,
+    "cumulativeWeight": 0.06231139,
+    "capital": "Marigot",
+    "capitalLatLng": [
+      18.07,
+      -63.08
+    ],
+    "latLng": [
+      18.0708,
+      -63.0501
+    ],
+    "flag": "https://flagcdn.com/mf.svg",
+    "flagEmoji": "\ud83c\uddf2\ud83c\uddeb",
+    "mapUrl": "https://goo.gl/maps/P9ho9QuJ9EAR28JEA",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "spotlightCity": "Marigot"
+  },
+  {
+    "iso3": "MAR",
+    "iso2": "MA",
+    "country": "Morocco",
+    "population": 37712505,
+    "weight": 0.00043284,
+    "cumulativeWeight": 0.06274423,
+    "capital": "Rabat",
+    "capitalLatLng": [
+      34.02,
+      -6.82
+    ],
+    "latLng": [
+      32.0,
+      -5.0
+    ],
+    "flag": "https://flagcdn.com/ma.svg",
+    "flagEmoji": "\ud83c\uddf2\ud83c\udde6",
+    "mapUrl": "https://goo.gl/maps/6oMv3dyBZg3iaXQ5A",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "spotlightCity": "Rabat"
+  },
+  {
+    "iso3": "MCO",
+    "iso2": "MC",
+    "country": "Monaco",
+    "population": 38956,
+    "weight": 4.5e-07,
+    "cumulativeWeight": 0.06274467,
+    "capital": "Monaco",
+    "capitalLatLng": [
+      43.73,
+      7.42
+    ],
+    "latLng": [
+      43.73333333,
+      7.4
+    ],
+    "flag": "https://flagcdn.com/mc.svg",
+    "flagEmoji": "\ud83c\uddf2\ud83c\udde8",
+    "mapUrl": "https://goo.gl/maps/DGpndDot28bYdXYn7",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "spotlightCity": "Monaco"
+  },
+  {
+    "iso3": "MDA",
+    "iso2": "MD",
+    "country": "Moldova",
+    "population": 2457783,
+    "weight": 2.821e-05,
+    "cumulativeWeight": 0.06277288,
+    "capital": "Chisinau",
+    "capitalLatLng": [
+      47.01,
+      28.9
+    ],
+    "latLng": [
+      47.0,
+      29.0
+    ],
+    "flag": "https://flagcdn.com/md.svg",
+    "flagEmoji": "\ud83c\uddf2\ud83c\udde9",
+    "mapUrl": "https://goo.gl/maps/JjmyUuULujnDeFPf7",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "spotlightCity": "Chi\u0219in\u0103u"
+  },
+  {
+    "iso3": "MDG",
+    "iso2": "MG",
+    "country": "Madagascar",
+    "population": 31195932,
+    "weight": 0.00035804,
+    "cumulativeWeight": 0.06313092,
+    "capital": "Antananarivo",
+    "capitalLatLng": [
+      -18.92,
+      47.52
+    ],
+    "latLng": [
+      -20.0,
+      47.0
+    ],
+    "flag": "https://flagcdn.com/mg.svg",
+    "flagEmoji": "\ud83c\uddf2\ud83c\uddec",
+    "mapUrl": "https://goo.gl/maps/AHQh2ABBaFW6Ngj26",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "spotlightCity": "Antananarivo"
+  },
+  {
+    "iso3": "MDV",
+    "iso2": "MV",
+    "country": "Maldives",
+    "population": 525994,
+    "weight": 6.04e-06,
+    "cumulativeWeight": 0.06313696,
+    "capital": "Male",
+    "capitalLatLng": [
+      4.17,
+      73.51
+    ],
+    "latLng": [
+      3.25,
+      73.0
+    ],
+    "flag": "https://flagcdn.com/mv.svg",
+    "flagEmoji": "\ud83c\uddf2\ud83c\uddfb",
+    "mapUrl": "https://goo.gl/maps/MNAWGq9vEdbZ9vUV7",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "spotlightCity": "Mal\u00e9"
+  },
+  {
+    "iso3": "MEX",
+    "iso2": "MX",
+    "country": "Mexico",
+    "population": 129739759,
+    "weight": 0.00148905,
+    "cumulativeWeight": 0.06462602,
+    "capital": "Mexico City",
+    "capitalLatLng": [
+      19.43,
+      -99.13
+    ],
+    "latLng": [
+      23.0,
+      -102.0
+    ],
+    "flag": "https://flagcdn.com/mx.svg",
+    "flagEmoji": "\ud83c\uddf2\ud83c\uddfd",
+    "mapUrl": "https://goo.gl/maps/s5g7imNPMDEePxzbA",
+    "region": "Americas",
+    "subregion": "North America",
+    "spotlightCity": "Mexico City"
+  },
+  {
+    "iso3": "MHL",
+    "iso2": "MH",
+    "country": "Marshall Islands",
+    "population": 38827,
+    "weight": 4.5e-07,
+    "cumulativeWeight": 0.06462646,
+    "capital": "Majuro",
+    "capitalLatLng": [
+      7.1,
+      171.38
+    ],
+    "latLng": [
+      9.0,
+      168.0
+    ],
+    "flag": "https://flagcdn.com/mh.svg",
+    "flagEmoji": "\ud83c\uddf2\ud83c\udded",
+    "mapUrl": "https://goo.gl/maps/A4xLi1XvcX88gi3W8",
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "spotlightCity": "Majuro"
+  },
+  {
+    "iso3": "MKD",
+    "iso2": "MK",
+    "country": "North Macedonia",
+    "population": 1827816,
+    "weight": 2.098e-05,
+    "cumulativeWeight": 0.06464744,
+    "capital": "Skopje",
+    "capitalLatLng": [
+      42.0,
+      21.43
+    ],
+    "latLng": [
+      41.83333333,
+      22.0
+    ],
+    "flag": "https://flagcdn.com/mk.svg",
+    "flagEmoji": "\ud83c\uddf2\ud83c\uddf0",
+    "mapUrl": "https://goo.gl/maps/55Q8MEnF6ACdu3q79",
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "spotlightCity": "Skopje"
+  },
+  {
+    "iso3": "MLI",
+    "iso2": "ML",
+    "country": "Mali",
+    "population": 23769127,
+    "weight": 0.0002728,
+    "cumulativeWeight": 0.06492024,
+    "capital": "Bamako",
+    "capitalLatLng": [
+      12.65,
+      -8.0
+    ],
+    "latLng": [
+      17.0,
+      -4.0
+    ],
+    "flag": "https://flagcdn.com/ml.svg",
+    "flagEmoji": "\ud83c\uddf2\ud83c\uddf1",
+    "mapUrl": "https://goo.gl/maps/u9mYJkCB19wyuzh27",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "spotlightCity": "Bamako"
+  },
+  {
+    "iso3": "MLT",
+    "iso2": "MT",
+    "country": "Malta",
+    "population": 552747,
+    "weight": 6.34e-06,
+    "cumulativeWeight": 0.06492659,
+    "capital": "Valletta",
+    "capitalLatLng": [
+      35.88,
+      14.5
+    ],
+    "latLng": [
+      35.9375,
+      14.3754
+    ],
+    "flag": "https://flagcdn.com/mt.svg",
+    "flagEmoji": "\ud83c\uddf2\ud83c\uddf9",
+    "mapUrl": "https://goo.gl/maps/skXCqguxDxxEKVk47",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "spotlightCity": "Valletta"
+  },
+  {
+    "iso3": "MMR",
+    "iso2": "MM",
+    "country": "Myanmar",
+    "population": 54133798,
+    "weight": 0.00062131,
+    "cumulativeWeight": 0.06554789,
+    "capital": "Nay Pyi Taw",
+    "capitalLatLng": [
+      19.76,
+      96.07
+    ],
+    "latLng": [
+      22.0,
+      98.0
+    ],
+    "flag": "https://flagcdn.com/mm.svg",
+    "flagEmoji": "\ud83c\uddf2\ud83c\uddf2",
+    "mapUrl": "https://goo.gl/maps/4jrZyJkDERUfHyp26",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "spotlightCity": "Naypyidaw"
+  },
+  {
+    "iso3": "MNE",
+    "iso2": "ME",
+    "country": "Montenegro",
+    "population": 616177,
+    "weight": 7.07e-06,
+    "cumulativeWeight": 0.06555497,
+    "capital": "Podgorica",
+    "capitalLatLng": [
+      42.43,
+      19.27
+    ],
+    "latLng": [
+      42.5,
+      19.3
+    ],
+    "flag": "https://flagcdn.com/me.svg",
+    "flagEmoji": "\ud83c\uddf2\ud83c\uddea",
+    "mapUrl": "https://goo.gl/maps/4THX1fM7WqANuPbB8",
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "spotlightCity": "Podgorica"
+  },
+  {
+    "iso3": "MNG",
+    "iso2": "MN",
+    "country": "Mongolia",
+    "population": 3481145,
+    "weight": 3.995e-05,
+    "cumulativeWeight": 0.06559492,
+    "capital": "Ulaanbaatar",
+    "capitalLatLng": [
+      47.92,
+      106.91
+    ],
+    "latLng": [
+      46.0,
+      105.0
+    ],
+    "flag": "https://flagcdn.com/mn.svg",
+    "flagEmoji": "\ud83c\uddf2\ud83c\uddf3",
+    "mapUrl": "https://goo.gl/maps/A1X7bMCKThBDNjzH6",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "spotlightCity": "Ulan Bator"
+  },
+  {
+    "iso3": "MNP",
+    "iso2": "MP",
+    "country": "Northern Mariana Islands",
+    "population": 45143,
+    "weight": 5.2e-07,
+    "cumulativeWeight": 0.06559544,
+    "capital": "Saipan",
+    "capitalLatLng": [
+      15.2,
+      145.75
+    ],
+    "latLng": [
+      15.2,
+      145.75
+    ],
+    "flag": "https://flagcdn.com/mp.svg",
+    "flagEmoji": "\ud83c\uddf2\ud83c\uddf5",
+    "mapUrl": "https://goo.gl/maps/cpZ67knoRAcfu1417",
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "spotlightCity": "Saipan"
+  },
+  {
+    "iso3": "MOZ",
+    "iso2": "MZ",
+    "country": "Mozambique",
+    "population": 33635160,
+    "weight": 0.00038604,
+    "cumulativeWeight": 0.06598148,
+    "capital": "Maputo",
+    "capitalLatLng": [
+      -25.95,
+      32.58
+    ],
+    "latLng": [
+      -18.25,
+      35.0
+    ],
+    "flag": "https://flagcdn.com/mz.svg",
+    "flagEmoji": "\ud83c\uddf2\ud83c\uddff",
+    "mapUrl": "https://goo.gl/maps/xCLcY9fzU6x4Pueu5",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "spotlightCity": "Maputo"
+  },
+  {
+    "iso3": "MRT",
+    "iso2": "MR",
+    "country": "Mauritania",
+    "population": 5022441,
+    "weight": 5.764e-05,
+    "cumulativeWeight": 0.06603912,
+    "capital": "Nouakchott",
+    "capitalLatLng": [
+      18.07,
+      -15.97
+    ],
+    "latLng": [
+      20.0,
+      -12.0
+    ],
+    "flag": "https://flagcdn.com/mr.svg",
+    "flagEmoji": "\ud83c\uddf2\ud83c\uddf7",
+    "mapUrl": "https://goo.gl/maps/im2MmQ5jFjzxWBks5",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "spotlightCity": "Nouakchott"
+  },
+  {
+    "iso3": "MUS",
+    "iso2": "MU",
+    "country": "Mauritius",
+    "population": 1261041,
+    "weight": 1.447e-05,
+    "cumulativeWeight": 0.06605359,
+    "capital": "Port Louis",
+    "capitalLatLng": [
+      -20.15,
+      57.48
+    ],
+    "latLng": [
+      -20.28333333,
+      57.55
+    ],
+    "flag": "https://flagcdn.com/mu.svg",
+    "flagEmoji": "\ud83c\uddf2\ud83c\uddfa",
+    "mapUrl": "https://goo.gl/maps/PpKtZ4W3tir5iGrz7",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "spotlightCity": "Port Louis"
+  },
+  {
+    "iso3": "MWI",
+    "iso2": "MW",
+    "country": "Malawi",
+    "population": 21104482,
+    "weight": 0.00024222,
+    "cumulativeWeight": 0.06629581,
+    "capital": "Lilongwe",
+    "capitalLatLng": [
+      -13.97,
+      33.78
+    ],
+    "latLng": [
+      -13.5,
+      34.0
+    ],
+    "flag": "https://flagcdn.com/mw.svg",
+    "flagEmoji": "\ud83c\uddf2\ud83c\uddfc",
+    "mapUrl": "https://goo.gl/maps/mc6z83pW9m98X2Ef6",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "spotlightCity": "Lilongwe"
+  },
+  {
+    "iso3": "MYS",
+    "iso2": "MY",
+    "country": "Malaysia",
+    "population": 35126298,
+    "weight": 0.00040315,
+    "cumulativeWeight": 0.06669897,
+    "capital": "Kuala Lumpur",
+    "capitalLatLng": [
+      3.17,
+      101.7
+    ],
+    "latLng": [
+      2.5,
+      112.5
+    ],
+    "flag": "https://flagcdn.com/my.svg",
+    "flagEmoji": "\ud83c\uddf2\ud83c\uddfe",
+    "mapUrl": "https://goo.gl/maps/qrY1PNeUXGyXDcPy6",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "spotlightCity": "Kuala Lumpur"
+  },
+  {
+    "iso3": "NAM",
+    "iso2": "NA",
+    "country": "Namibia",
+    "population": 2963095,
+    "weight": 3.401e-05,
+    "cumulativeWeight": 0.06673298,
+    "capital": "Windhoek",
+    "capitalLatLng": [
+      -22.57,
+      17.08
+    ],
+    "latLng": [
+      -22.0,
+      17.0
+    ],
+    "flag": "https://flagcdn.com/na.svg",
+    "flagEmoji": "\ud83c\uddf3\ud83c\udde6",
+    "mapUrl": "https://goo.gl/maps/oR1i8BFEYX3EY83WA",
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "spotlightCity": "Windhoek"
+  },
+  {
+    "iso3": "NCL",
+    "iso2": "NC",
+    "country": "New Caledonia",
+    "population": 289870,
+    "weight": 3.33e-06,
+    "cumulativeWeight": 0.0667363,
+    "capital": "Noumea",
+    "capitalLatLng": [
+      -22.27,
+      166.45
+    ],
+    "latLng": [
+      -21.5,
+      165.5
+    ],
+    "flag": "https://flagcdn.com/nc.svg",
+    "flagEmoji": "\ud83c\uddf3\ud83c\udde8",
+    "mapUrl": "https://goo.gl/maps/cBhtCeMdob4U7FRU9",
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "spotlightCity": "Noum\u00e9a"
+  },
+  {
+    "iso3": "NER",
+    "iso2": "NE",
+    "country": "Niger",
+    "population": 26159867,
+    "weight": 0.00030024,
+    "cumulativeWeight": 0.06703655,
+    "capital": "Niamey",
+    "capitalLatLng": [
+      13.52,
+      2.12
+    ],
+    "latLng": [
+      16.0,
+      8.0
+    ],
+    "flag": "https://flagcdn.com/ne.svg",
+    "flagEmoji": "\ud83c\uddf3\ud83c\uddea",
+    "mapUrl": "https://goo.gl/maps/VKNU2TLsZcgxM49c8",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "spotlightCity": "Niamey"
+  },
+  {
+    "iso3": "NGA",
+    "iso2": "NG",
+    "country": "Nigeria",
+    "population": 227882945,
+    "weight": 0.00261547,
+    "cumulativeWeight": 0.06965201,
+    "capital": "Abuja",
+    "capitalLatLng": [
+      9.08,
+      7.53
+    ],
+    "latLng": [
+      10.0,
+      8.0
+    ],
+    "flag": "https://flagcdn.com/ng.svg",
+    "flagEmoji": "\ud83c\uddf3\ud83c\uddec",
+    "mapUrl": "https://goo.gl/maps/LTn417qWwBPFszuV9",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "spotlightCity": "Abuja"
+  },
+  {
+    "iso3": "NIC",
+    "iso2": "NI",
+    "country": "Nicaragua",
+    "population": 6823613,
+    "weight": 7.832e-05,
+    "cumulativeWeight": 0.06973033,
+    "capital": "Managua",
+    "capitalLatLng": [
+      12.13,
+      -86.25
+    ],
+    "latLng": [
+      13.0,
+      -85.0
+    ],
+    "flag": "https://flagcdn.com/ni.svg",
+    "flagEmoji": "\ud83c\uddf3\ud83c\uddee",
+    "mapUrl": "https://goo.gl/maps/P77LaEVkKJKXneRC6",
+    "region": "Americas",
+    "subregion": "Central America",
+    "spotlightCity": "Managua"
+  },
+  {
+    "iso3": "NLD",
+    "iso2": "NL",
+    "country": "Netherlands",
+    "population": 17877117,
+    "weight": 0.00020518,
+    "cumulativeWeight": 0.06993551,
+    "capital": "Amsterdam",
+    "capitalLatLng": [
+      52.35,
+      4.92
+    ],
+    "latLng": [
+      52.5,
+      5.75
+    ],
+    "flag": "https://flagcdn.com/nl.svg",
+    "flagEmoji": "\ud83c\uddf3\ud83c\uddf1",
+    "mapUrl": "https://goo.gl/maps/Hv6zQswGhFxoVVBm6",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "spotlightCity": "Amsterdam"
+  },
+  {
+    "iso3": "NOR",
+    "iso2": "NO",
+    "country": "Norway",
+    "population": 5519594,
+    "weight": 6.335e-05,
+    "cumulativeWeight": 0.06999886,
+    "capital": "Oslo",
+    "capitalLatLng": [
+      59.92,
+      10.75
+    ],
+    "latLng": [
+      62.0,
+      10.0
+    ],
+    "flag": "https://flagcdn.com/no.svg",
+    "flagEmoji": "\ud83c\uddf3\ud83c\uddf4",
+    "mapUrl": "https://goo.gl/maps/htWRrphA7vNgQNdSA",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "spotlightCity": "Oslo"
+  },
+  {
+    "iso3": "NPL",
+    "iso2": "NP",
+    "country": "Nepal",
+    "population": 29694614,
+    "weight": 0.00034081,
+    "cumulativeWeight": 0.07033967,
+    "capital": "Kathmandu",
+    "capitalLatLng": [
+      27.72,
+      85.32
+    ],
+    "latLng": [
+      28.0,
+      84.0
+    ],
+    "flag": "https://flagcdn.com/np.svg",
+    "flagEmoji": "\ud83c\uddf3\ud83c\uddf5",
+    "mapUrl": "https://goo.gl/maps/UMj2zpbQp7B5c3yT7",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "spotlightCity": "Kathmandu"
+  },
+  {
+    "iso3": "NRU",
+    "iso2": "NR",
+    "country": "Nauru",
+    "population": 11875,
+    "weight": 1.4e-07,
+    "cumulativeWeight": 0.07033981,
+    "capital": "Yaren",
+    "capitalLatLng": [
+      -0.55,
+      166.92
+    ],
+    "latLng": [
+      -0.53333333,
+      166.91666666
+    ],
+    "flag": "https://flagcdn.com/nr.svg",
+    "flagEmoji": "\ud83c\uddf3\ud83c\uddf7",
+    "mapUrl": "https://goo.gl/maps/kyAGw6XEJgjSMsTK7",
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "spotlightCity": "Yaren"
+  },
+  {
+    "iso3": "NZL",
+    "iso2": "NZ",
+    "country": "New Zealand",
+    "population": 5223100,
+    "weight": 5.995e-05,
+    "cumulativeWeight": 0.07039975,
+    "capital": "Wellington",
+    "capitalLatLng": [
+      -41.3,
+      174.78
+    ],
+    "latLng": [
+      -41.0,
+      174.0
+    ],
+    "flag": "https://flagcdn.com/nz.svg",
+    "flagEmoji": "\ud83c\uddf3\ud83c\uddff",
+    "mapUrl": "https://goo.gl/maps/xXiDQo65dwdpw9iu8",
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "spotlightCity": "Wellington"
+  },
+  {
+    "iso3": "OMN",
+    "iso2": "OM",
+    "country": "Oman",
+    "population": 5049269,
+    "weight": 5.795e-05,
+    "cumulativeWeight": 0.07045771,
+    "capital": "Muscat",
+    "capitalLatLng": [
+      23.62,
+      58.58
+    ],
+    "latLng": [
+      21.0,
+      57.0
+    ],
+    "flag": "https://flagcdn.com/om.svg",
+    "flagEmoji": "\ud83c\uddf4\ud83c\uddf2",
+    "mapUrl": "https://goo.gl/maps/L2BoXoAwDDwWecnw5",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "spotlightCity": "Muscat"
+  },
+  {
+    "iso3": "PAK",
+    "iso2": "PK",
+    "country": "Pakistan",
+    "population": 247504495,
+    "weight": 0.00284067,
+    "cumulativeWeight": 0.07329837,
+    "capital": "Islamabad",
+    "capitalLatLng": [
+      33.68,
+      73.05
+    ],
+    "latLng": [
+      30.0,
+      70.0
+    ],
+    "flag": "https://flagcdn.com/pk.svg",
+    "flagEmoji": "\ud83c\uddf5\ud83c\uddf0",
+    "mapUrl": "https://goo.gl/maps/5LYujdfR5yLUXoERA",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "spotlightCity": "Islamabad"
+  },
+  {
+    "iso3": "PAN",
+    "iso2": "PA",
+    "country": "Panama",
+    "population": 4458759,
+    "weight": 5.117e-05,
+    "cumulativeWeight": 0.07334955,
+    "capital": "Panama City",
+    "capitalLatLng": [
+      8.97,
+      -79.53
+    ],
+    "latLng": [
+      9.0,
+      -80.0
+    ],
+    "flag": "https://flagcdn.com/pa.svg",
+    "flagEmoji": "\ud83c\uddf5\ud83c\udde6",
+    "mapUrl": "https://goo.gl/maps/sEN7sKqeawa5oPNLA",
+    "region": "Americas",
+    "subregion": "Central America",
+    "spotlightCity": "Panama City"
+  },
+  {
+    "iso3": "PER",
+    "iso2": "PE",
+    "country": "Peru",
+    "population": 33845617,
+    "weight": 0.00038845,
+    "cumulativeWeight": 0.073738,
+    "capital": "Lima",
+    "capitalLatLng": [
+      -12.05,
+      -77.05
+    ],
+    "latLng": [
+      -10.0,
+      -76.0
+    ],
+    "flag": "https://flagcdn.com/pe.svg",
+    "flagEmoji": "\ud83c\uddf5\ud83c\uddea",
+    "mapUrl": "https://goo.gl/maps/uDWEUaXNcZTng1fP6",
+    "region": "Americas",
+    "subregion": "South America",
+    "spotlightCity": "Lima"
+  },
+  {
+    "iso3": "PHL",
+    "iso2": "PH",
+    "country": "Philippines",
+    "population": 114891199,
+    "weight": 0.00131863,
+    "cumulativeWeight": 0.07505664,
+    "capital": "Manila",
+    "capitalLatLng": [
+      14.6,
+      120.97
+    ],
+    "latLng": [
+      13.0,
+      122.0
+    ],
+    "flag": "https://flagcdn.com/ph.svg",
+    "flagEmoji": "\ud83c\uddf5\ud83c\udded",
+    "mapUrl": "https://goo.gl/maps/k8T2fb5VMUfsWFX6A",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "spotlightCity": "Manila"
+  },
+  {
+    "iso3": "PLW",
+    "iso2": "PW",
+    "country": "Palau",
+    "population": 17727,
+    "weight": 2e-07,
+    "cumulativeWeight": 0.07505684,
+    "capital": "Melekeok",
+    "capitalLatLng": [
+      7.5,
+      134.62
+    ],
+    "latLng": [
+      7.5,
+      134.5
+    ],
+    "flag": "https://flagcdn.com/pw.svg",
+    "flagEmoji": "\ud83c\uddf5\ud83c\uddfc",
+    "mapUrl": "https://goo.gl/maps/MVasQBbUkQP7qQDR9",
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "spotlightCity": "Ngerulmud"
+  },
+  {
+    "iso3": "PNG",
+    "iso2": "PG",
+    "country": "Papua New Guinea",
+    "population": 10389635,
+    "weight": 0.00011924,
+    "cumulativeWeight": 0.07517608,
+    "capital": "Port Moresby",
+    "capitalLatLng": [
+      -9.45,
+      147.18
+    ],
+    "latLng": [
+      -6.0,
+      147.0
+    ],
+    "flag": "https://flagcdn.com/pg.svg",
+    "flagEmoji": "\ud83c\uddf5\ud83c\uddec",
+    "mapUrl": "https://goo.gl/maps/ChGmzZBjZ3vnBwR2A",
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "spotlightCity": "Port Moresby"
+  },
+  {
+    "iso3": "POL",
+    "iso2": "PL",
+    "country": "Poland",
+    "population": 36687353,
+    "weight": 0.00042107,
+    "cumulativeWeight": 0.07559715,
+    "capital": "Warsaw",
+    "capitalLatLng": [
+      52.25,
+      21.0
+    ],
+    "latLng": [
+      52.0,
+      20.0
+    ],
+    "flag": "https://flagcdn.com/pl.svg",
+    "flagEmoji": "\ud83c\uddf5\ud83c\uddf1",
+    "mapUrl": "https://goo.gl/maps/gY9Xw4Sf4415P4949",
+    "region": "Europe",
+    "subregion": "Central Europe",
+    "spotlightCity": "Warsaw"
+  },
+  {
+    "iso3": "PRI",
+    "iso2": "PR",
+    "country": "Puerto Rico",
+    "population": 3205691,
+    "weight": 3.679e-05,
+    "cumulativeWeight": 0.07563395,
+    "capital": "San Juan",
+    "capitalLatLng": [
+      18.47,
+      -66.12
+    ],
+    "latLng": [
+      18.25,
+      -66.5
+    ],
+    "flag": "https://flagcdn.com/pr.svg",
+    "flagEmoji": "\ud83c\uddf5\ud83c\uddf7",
+    "mapUrl": "https://goo.gl/maps/sygfDbtwn389wu8x5",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "spotlightCity": "San Juan"
+  },
+  {
+    "iso3": "PRK",
+    "iso2": "KP",
+    "country": "Korea, Dem. People's Rep.",
+    "population": 26418204,
+    "weight": 0.00030321,
+    "cumulativeWeight": 0.07593715,
+    "capital": "Pyongyang",
+    "capitalLatLng": [
+      39.02,
+      125.75
+    ],
+    "latLng": [
+      40.0,
+      127.0
+    ],
+    "flag": "https://flagcdn.com/kp.svg",
+    "flagEmoji": "\ud83c\uddf0\ud83c\uddf5",
+    "mapUrl": "https://goo.gl/maps/9q5T2DMeH5JL7Tky6",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "spotlightCity": "Pyongyang"
+  },
+  {
+    "iso3": "PRT",
+    "iso2": "PT",
+    "country": "Portugal",
+    "population": 10578174,
+    "weight": 0.00012141,
+    "cumulativeWeight": 0.07605856,
+    "capital": "Lisbon",
+    "capitalLatLng": [
+      38.72,
+      -9.13
+    ],
+    "latLng": [
+      39.5,
+      -8.0
+    ],
+    "flag": "https://flagcdn.com/pt.svg",
+    "flagEmoji": "\ud83c\uddf5\ud83c\uddf9",
+    "mapUrl": "https://goo.gl/maps/BaTBSyc4GWMmbAKB8",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "spotlightCity": "Lisbon"
+  },
+  {
+    "iso3": "PRY",
+    "iso2": "PY",
+    "country": "Paraguay",
+    "population": 6844146,
+    "weight": 7.855e-05,
+    "cumulativeWeight": 0.07613711,
+    "capital": "Asuncion",
+    "capitalLatLng": [
+      -25.28,
+      -57.57
+    ],
+    "latLng": [
+      -23.0,
+      -58.0
+    ],
+    "flag": "https://flagcdn.com/py.svg",
+    "flagEmoji": "\ud83c\uddf5\ud83c\uddfe",
+    "mapUrl": "https://goo.gl/maps/JtnqG73WJn1Gx6mz6",
+    "region": "Americas",
+    "subregion": "South America",
+    "spotlightCity": "Asunci\u00f3n"
+  },
+  {
+    "iso3": "PSE",
+    "iso2": "PS",
+    "country": "West Bank and Gaza",
+    "population": 5165775,
+    "weight": 5.929e-05,
+    "cumulativeWeight": 0.0761964,
+    "capital": "East Jerusalem",
+    "capitalLatLng": [
+      31.9,
+      35.2
+    ],
+    "latLng": [
+      31.9,
+      35.2
+    ],
+    "flag": "https://flagcdn.com/ps.svg",
+    "flagEmoji": "\ud83c\uddf5\ud83c\uddf8",
+    "mapUrl": "https://goo.gl/maps/QvTbkRdmdWEoYAmt5",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "spotlightCity": "Ramallah"
+  },
+  {
+    "iso3": "PYF",
+    "iso2": "PF",
+    "country": "French Polynesia",
+    "population": 281118,
+    "weight": 3.23e-06,
+    "cumulativeWeight": 0.07619963,
+    "capital": "Papeete",
+    "capitalLatLng": [
+      -17.53,
+      -149.56
+    ],
+    "latLng": [
+      -17.6797,
+      -149.4068
+    ],
+    "flag": "https://flagcdn.com/pf.svg",
+    "flagEmoji": "\ud83c\uddf5\ud83c\uddeb",
+    "mapUrl": "https://goo.gl/maps/xgg6BQTRyeQg4e1m6",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "spotlightCity": "Papeet\u0113"
+  },
+  {
+    "iso3": "QAT",
+    "iso2": "QA",
+    "country": "Qatar",
+    "population": 2656032,
+    "weight": 3.048e-05,
+    "cumulativeWeight": 0.07623011,
+    "capital": "Doha",
+    "capitalLatLng": [
+      25.28,
+      51.53
+    ],
+    "latLng": [
+      25.5,
+      51.25
+    ],
+    "flag": "https://flagcdn.com/qa.svg",
+    "flagEmoji": "\ud83c\uddf6\ud83c\udde6",
+    "mapUrl": "https://goo.gl/maps/ZV76Y49z7LLUZ2KQ6",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "spotlightCity": "Doha"
+  },
+  {
+    "iso3": "ROU",
+    "iso2": "RO",
+    "country": "Romania",
+    "population": 19059479,
+    "weight": 0.00021875,
+    "cumulativeWeight": 0.07644886,
+    "capital": "Bucharest",
+    "capitalLatLng": [
+      44.43,
+      26.1
+    ],
+    "latLng": [
+      46.0,
+      25.0
+    ],
+    "flag": "https://flagcdn.com/ro.svg",
+    "flagEmoji": "\ud83c\uddf7\ud83c\uddf4",
+    "mapUrl": "https://goo.gl/maps/845hAgCf1mDkN3vr7",
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "spotlightCity": "Bucharest"
+  },
+  {
+    "iso3": "RUS",
+    "iso2": "RU",
+    "country": "Russian Federation",
+    "population": 143826130,
+    "weight": 0.00165073,
+    "cumulativeWeight": 0.07809959,
+    "capital": "Moscow",
+    "capitalLatLng": [
+      55.75,
+      37.6
+    ],
+    "latLng": [
+      60.0,
+      100.0
+    ],
+    "flag": "https://flagcdn.com/ru.svg",
+    "flagEmoji": "\ud83c\uddf7\ud83c\uddfa",
+    "mapUrl": "https://goo.gl/maps/4F4PpDhGJgVvLby57",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "spotlightCity": "Moscow"
+  },
+  {
+    "iso3": "RWA",
+    "iso2": "RW",
+    "country": "Rwanda",
+    "population": 13954471,
+    "weight": 0.00016016,
+    "cumulativeWeight": 0.07825975,
+    "capital": "Kigali",
+    "capitalLatLng": [
+      -1.95,
+      30.05
+    ],
+    "latLng": [
+      -2.0,
+      30.0
+    ],
+    "flag": "https://flagcdn.com/rw.svg",
+    "flagEmoji": "\ud83c\uddf7\ud83c\uddfc",
+    "mapUrl": "https://goo.gl/maps/j5xb5r7CLqjYbyP86",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "spotlightCity": "Kigali"
+  },
+  {
+    "iso3": "SAU",
+    "iso2": "SA",
+    "country": "Saudi Arabia",
+    "population": 33264292,
+    "weight": 0.00038178,
+    "cumulativeWeight": 0.07864153,
+    "capital": "Riyadh",
+    "capitalLatLng": [
+      24.65,
+      46.7
+    ],
+    "latLng": [
+      25.0,
+      45.0
+    ],
+    "flag": "https://flagcdn.com/sa.svg",
+    "flagEmoji": "\ud83c\uddf8\ud83c\udde6",
+    "mapUrl": "https://goo.gl/maps/5PSjvdJ1AyaLFRrG9",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "spotlightCity": "Riyadh"
+  },
+  {
+    "iso3": "SDN",
+    "iso2": "SD",
+    "country": "Sudan",
+    "population": 50042791,
+    "weight": 0.00057435,
+    "cumulativeWeight": 0.07921588,
+    "capital": "Khartoum",
+    "capitalLatLng": [
+      15.6,
+      32.53
+    ],
+    "latLng": [
+      15.0,
+      30.0
+    ],
+    "flag": "https://flagcdn.com/sd.svg",
+    "flagEmoji": "\ud83c\uddf8\ud83c\udde9",
+    "mapUrl": "https://goo.gl/maps/bNW7YUJCaqR8zcXn7",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "spotlightCity": "Khartoum"
+  },
+  {
+    "iso3": "SEN",
+    "iso2": "SN",
+    "country": "Senegal",
+    "population": 18077573,
+    "weight": 0.00020748,
+    "cumulativeWeight": 0.07942336,
+    "capital": "Dakar",
+    "capitalLatLng": [
+      14.73,
+      -17.63
+    ],
+    "latLng": [
+      14.0,
+      -14.0
+    ],
+    "flag": "https://flagcdn.com/sn.svg",
+    "flagEmoji": "\ud83c\uddf8\ud83c\uddf3",
+    "mapUrl": "https://goo.gl/maps/o5f1uD5nyihCL3HCA",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "spotlightCity": "Dakar"
+  },
+  {
+    "iso3": "SGP",
+    "iso2": "SG",
+    "country": "Singapore",
+    "population": 5917648,
+    "weight": 6.792e-05,
+    "cumulativeWeight": 0.07949128,
+    "capital": "Singapore",
+    "capitalLatLng": [
+      1.28,
+      103.85
+    ],
+    "latLng": [
+      1.36666666,
+      103.8
+    ],
+    "flag": "https://flagcdn.com/sg.svg",
+    "flagEmoji": "\ud83c\uddf8\ud83c\uddec",
+    "mapUrl": "https://goo.gl/maps/QbQt9Y9b5KFzsahV6",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "spotlightCity": "Singapore"
+  },
+  {
+    "iso3": "SLB",
+    "iso2": "SB",
+    "country": "Solomon Islands",
+    "population": 800005,
+    "weight": 9.18e-06,
+    "cumulativeWeight": 0.07950046,
+    "capital": "Honiara",
+    "capitalLatLng": [
+      -9.43,
+      159.95
+    ],
+    "latLng": [
+      -8.0,
+      159.0
+    ],
+    "flag": "https://flagcdn.com/sb.svg",
+    "flagEmoji": "\ud83c\uddf8\ud83c\udde7",
+    "mapUrl": "https://goo.gl/maps/JbPkx86Ywjv8C1n8A",
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "spotlightCity": "Honiara"
+  },
+  {
+    "iso3": "SLE",
+    "iso2": "SL",
+    "country": "Sierra Leone",
+    "population": 8460512,
+    "weight": 9.71e-05,
+    "cumulativeWeight": 0.07959757,
+    "capital": "Freetown",
+    "capitalLatLng": [
+      8.48,
+      -13.23
+    ],
+    "latLng": [
+      8.5,
+      -11.5
+    ],
+    "flag": "https://flagcdn.com/sl.svg",
+    "flagEmoji": "\ud83c\uddf8\ud83c\uddf1",
+    "mapUrl": "https://goo.gl/maps/jhacar85oq9QaeKB7",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "spotlightCity": "Freetown"
+  },
+  {
+    "iso3": "SLV",
+    "iso2": "SV",
+    "country": "El Salvador",
+    "population": 6309624,
+    "weight": 7.242e-05,
+    "cumulativeWeight": 0.07966999,
+    "capital": "San Salvador",
+    "capitalLatLng": [
+      13.7,
+      -89.2
+    ],
+    "latLng": [
+      13.83333333,
+      -88.91666666
+    ],
+    "flag": "https://flagcdn.com/sv.svg",
+    "flagEmoji": "\ud83c\uddf8\ud83c\uddfb",
+    "mapUrl": "https://goo.gl/maps/cZnCEi5sEMQtKKcB7",
+    "region": "Americas",
+    "subregion": "Central America",
+    "spotlightCity": "San Salvador"
+  },
+  {
+    "iso3": "SMR",
+    "iso2": "SM",
+    "country": "San Marino",
+    "population": 33860,
+    "weight": 3.9e-07,
+    "cumulativeWeight": 0.07967037,
+    "capital": "San Marino",
+    "capitalLatLng": [
+      43.94,
+      12.45
+    ],
+    "latLng": [
+      43.76666666,
+      12.41666666
+    ],
+    "flag": "https://flagcdn.com/sm.svg",
+    "flagEmoji": "\ud83c\uddf8\ud83c\uddf2",
+    "mapUrl": "https://goo.gl/maps/rxCVJjm8dVY93RPY8",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "spotlightCity": "City of San Marino"
+  },
+  {
+    "iso3": "SOM",
+    "iso2": "SO",
+    "country": "Somalia",
+    "population": 18358615,
+    "weight": 0.00021071,
+    "cumulativeWeight": 0.07988108,
+    "capital": "Mogadishu",
+    "capitalLatLng": [
+      2.07,
+      45.33
+    ],
+    "latLng": [
+      10.0,
+      49.0
+    ],
+    "flag": "https://flagcdn.com/so.svg",
+    "flagEmoji": "\ud83c\uddf8\ud83c\uddf4",
+    "mapUrl": "https://goo.gl/maps/8of8q7D1a8p7R6Fc9",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "spotlightCity": "Mogadishu"
+  },
+  {
+    "iso3": "SRB",
+    "iso2": "RS",
+    "country": "Serbia",
+    "population": 6623183,
+    "weight": 7.602e-05,
+    "cumulativeWeight": 0.0799571,
+    "capital": "Belgrade",
+    "capitalLatLng": [
+      44.83,
+      20.5
+    ],
+    "latLng": [
+      44.0,
+      21.0
+    ],
+    "flag": "https://flagcdn.com/rs.svg",
+    "flagEmoji": "\ud83c\uddf7\ud83c\uddf8",
+    "mapUrl": "https://goo.gl/maps/2Aqof7aV2Naq8YEK8",
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "spotlightCity": "Belgrade"
+  },
+  {
+    "iso3": "SSD",
+    "iso2": "SS",
+    "country": "South Sudan",
+    "population": 11483374,
+    "weight": 0.0001318,
+    "cumulativeWeight": 0.08008889,
+    "capital": "Juba",
+    "capitalLatLng": [
+      4.85,
+      31.62
+    ],
+    "latLng": [
+      7.0,
+      30.0
+    ],
+    "flag": "https://flagcdn.com/ss.svg",
+    "flagEmoji": "\ud83c\uddf8\ud83c\uddf8",
+    "mapUrl": "https://goo.gl/maps/Zm1AYCXb9HSNF1P27",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "spotlightCity": "Juba"
+  },
+  {
+    "iso3": "STP",
+    "iso2": "ST",
+    "country": "Sao Tome and Principe",
+    "population": 230871,
+    "weight": 2.65e-06,
+    "cumulativeWeight": 0.08009154,
+    "capital": "Sao Tome",
+    "capitalLatLng": [
+      0.34,
+      6.73
+    ],
+    "latLng": [
+      1.0,
+      7.0
+    ],
+    "flag": "https://flagcdn.com/st.svg",
+    "flagEmoji": "\ud83c\uddf8\ud83c\uddf9",
+    "mapUrl": "https://goo.gl/maps/9EUppm13RtPX9oF46",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "spotlightCity": "S\u00e3o Tom\u00e9"
+  },
+  {
+    "iso3": "SUR",
+    "iso2": "SR",
+    "country": "Suriname",
+    "population": 628886,
+    "weight": 7.22e-06,
+    "cumulativeWeight": 0.08009876,
+    "capital": "Paramaribo",
+    "capitalLatLng": [
+      5.83,
+      -55.17
+    ],
+    "latLng": [
+      4.0,
+      -56.0
+    ],
+    "flag": "https://flagcdn.com/sr.svg",
+    "flagEmoji": "\ud83c\uddf8\ud83c\uddf7",
+    "mapUrl": "https://goo.gl/maps/iy7TuQLSi4qgoBoG7",
+    "region": "Americas",
+    "subregion": "South America",
+    "spotlightCity": "Paramaribo"
+  },
+  {
+    "iso3": "SVK",
+    "iso2": "SK",
+    "country": "Slovak Republic",
+    "population": 5426740,
+    "weight": 6.228e-05,
+    "cumulativeWeight": 0.08016104,
+    "capital": "Bratislava",
+    "capitalLatLng": [
+      48.15,
+      17.12
+    ],
+    "latLng": [
+      48.66666666,
+      19.5
+    ],
+    "flag": "https://flagcdn.com/sk.svg",
+    "flagEmoji": "\ud83c\uddf8\ud83c\uddf0",
+    "mapUrl": "https://goo.gl/maps/uNSH2wW4bLoZVYJj7",
+    "region": "Europe",
+    "subregion": "Central Europe",
+    "spotlightCity": "Bratislava"
+  },
+  {
+    "iso3": "SVN",
+    "iso2": "SI",
+    "country": "Slovenia",
+    "population": 2120461,
+    "weight": 2.434e-05,
+    "cumulativeWeight": 0.08018538,
+    "capital": "Ljubljana",
+    "capitalLatLng": [
+      46.05,
+      14.52
+    ],
+    "latLng": [
+      46.11666666,
+      14.81666666
+    ],
+    "flag": "https://flagcdn.com/si.svg",
+    "flagEmoji": "\ud83c\uddf8\ud83c\uddee",
+    "mapUrl": "https://goo.gl/maps/7zgFmswcCJh5L5D49",
+    "region": "Europe",
+    "subregion": "Central Europe",
+    "spotlightCity": "Ljubljana"
+  },
+  {
+    "iso3": "SWE",
+    "iso2": "SE",
+    "country": "Sweden",
+    "population": 10536632,
+    "weight": 0.00012093,
+    "cumulativeWeight": 0.08030631,
+    "capital": "Stockholm",
+    "capitalLatLng": [
+      59.33,
+      18.05
+    ],
+    "latLng": [
+      62.0,
+      15.0
+    ],
+    "flag": "https://flagcdn.com/se.svg",
+    "flagEmoji": "\ud83c\uddf8\ud83c\uddea",
+    "mapUrl": "https://goo.gl/maps/iqygE491ADVgnBW39",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "spotlightCity": "Stockholm"
+  },
+  {
+    "iso3": "SWZ",
+    "iso2": "SZ",
+    "country": "Eswatini",
+    "population": 1230506,
+    "weight": 1.412e-05,
+    "cumulativeWeight": 0.08032044,
+    "capital": "Mbabane",
+    "capitalLatLng": [
+      -26.32,
+      31.13
+    ],
+    "latLng": [
+      -26.5,
+      31.5
+    ],
+    "flag": "https://flagcdn.com/sz.svg",
+    "flagEmoji": "\ud83c\uddf8\ud83c\uddff",
+    "mapUrl": "https://goo.gl/maps/cUY79eqQihFSE8hV6",
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "spotlightCity": "Mbabane"
+  },
+  {
+    "iso3": "SXM",
+    "iso2": "SX",
+    "country": "Sint Maarten (Dutch part)",
+    "population": 42749,
+    "weight": 4.9e-07,
+    "cumulativeWeight": 0.08032093,
+    "capital": "Philipsburg",
+    "capitalLatLng": [
+      18.02,
+      -63.03
+    ],
+    "latLng": [
+      18.033333,
+      -63.05
+    ],
+    "flag": "https://flagcdn.com/sx.svg",
+    "flagEmoji": "\ud83c\uddf8\ud83c\uddfd",
+    "mapUrl": "https://goo.gl/maps/DjvcESy1a1oGEZuNA",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "spotlightCity": "Philipsburg"
+  },
+  {
+    "iso3": "SYC",
+    "iso2": "SC",
+    "country": "Seychelles",
+    "population": 119773,
+    "weight": 1.37e-06,
+    "cumulativeWeight": 0.0803223,
+    "capital": "Victoria",
+    "capitalLatLng": [
+      -4.62,
+      55.45
+    ],
+    "latLng": [
+      -4.58333333,
+      55.66666666
+    ],
+    "flag": "https://flagcdn.com/sc.svg",
+    "flagEmoji": "\ud83c\uddf8\ud83c\udde8",
+    "mapUrl": "https://goo.gl/maps/aqCcy2TKh5TV5MAX8",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "spotlightCity": "Victoria"
+  },
+  {
+    "iso3": "SYR",
+    "iso2": "SY",
+    "country": "Syrian Arab Republic",
+    "population": 23594623,
+    "weight": 0.0002708,
+    "cumulativeWeight": 0.0805931,
+    "capital": "Damascus",
+    "capitalLatLng": [
+      33.5,
+      36.3
+    ],
+    "latLng": [
+      35.0,
+      38.0
+    ],
+    "flag": "https://flagcdn.com/sy.svg",
+    "flagEmoji": "\ud83c\uddf8\ud83c\uddfe",
+    "mapUrl": "https://goo.gl/maps/Xe3VnFbwdb4nv2SM9",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "spotlightCity": "Damascus"
+  },
+  {
+    "iso3": "TCA",
+    "iso2": "TC",
+    "country": "Turks and Caicos Islands",
+    "population": 46198,
+    "weight": 5.3e-07,
+    "cumulativeWeight": 0.08059363,
+    "capital": "Cockburn Town",
+    "capitalLatLng": [
+      21.46,
+      -71.14
+    ],
+    "latLng": [
+      21.75,
+      -71.58333333
+    ],
+    "flag": "https://flagcdn.com/tc.svg",
+    "flagEmoji": "\ud83c\uddf9\ud83c\udde8",
+    "mapUrl": "https://goo.gl/maps/R8VUDQfwZiFtvmyn8",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "spotlightCity": "Cockburn Town"
+  },
+  {
+    "iso3": "TCD",
+    "iso2": "TD",
+    "country": "Chad",
+    "population": 19319064,
+    "weight": 0.00022173,
+    "cumulativeWeight": 0.08081536,
+    "capital": "N'Djamena",
+    "capitalLatLng": [
+      12.1,
+      15.03
+    ],
+    "latLng": [
+      15.0,
+      19.0
+    ],
+    "flag": "https://flagcdn.com/td.svg",
+    "flagEmoji": "\ud83c\uddf9\ud83c\udde9",
+    "mapUrl": "https://goo.gl/maps/ziUdAZ8skuNfx5Hx7",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "spotlightCity": "N'Djamena"
+  },
+  {
+    "iso3": "TGO",
+    "iso2": "TG",
+    "country": "Togo",
+    "population": 9304337,
+    "weight": 0.00010679,
+    "cumulativeWeight": 0.08092215,
+    "capital": "Lome",
+    "capitalLatLng": [
+      6.14,
+      1.21
+    ],
+    "latLng": [
+      8.0,
+      1.16666666
+    ],
+    "flag": "https://flagcdn.com/tg.svg",
+    "flagEmoji": "\ud83c\uddf9\ud83c\uddec",
+    "mapUrl": "https://goo.gl/maps/jzAa9feXuXPrKVb89",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "spotlightCity": "Lom\u00e9"
+  },
+  {
+    "iso3": "THA",
+    "iso2": "TH",
+    "country": "Thailand",
+    "population": 71702435,
+    "weight": 0.00082295,
+    "cumulativeWeight": 0.0817451,
+    "capital": "Bangkok",
+    "capitalLatLng": [
+      13.75,
+      100.52
+    ],
+    "latLng": [
+      15.0,
+      100.0
+    ],
+    "flag": "https://flagcdn.com/th.svg",
+    "flagEmoji": "\ud83c\uddf9\ud83c\udded",
+    "mapUrl": "https://goo.gl/maps/qeU6uqsfW4nCCwzw9",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "spotlightCity": "Bangkok"
+  },
+  {
+    "iso3": "TJK",
+    "iso2": "TJ",
+    "country": "Tajikistan",
+    "population": 10389799,
+    "weight": 0.00011925,
+    "cumulativeWeight": 0.08186434,
+    "capital": "Dushanbe",
+    "capitalLatLng": [
+      38.55,
+      68.77
+    ],
+    "latLng": [
+      39.0,
+      71.0
+    ],
+    "flag": "https://flagcdn.com/tj.svg",
+    "flagEmoji": "\ud83c\uddf9\ud83c\uddef",
+    "mapUrl": "https://goo.gl/maps/8rQgW88jEXijhVb58",
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "spotlightCity": "Dushanbe"
+  },
+  {
+    "iso3": "TKM",
+    "iso2": "TM",
+    "country": "Turkmenistan",
+    "population": 7364438,
+    "weight": 8.452e-05,
+    "cumulativeWeight": 0.08194887,
+    "capital": "Ashgabat",
+    "capitalLatLng": [
+      37.95,
+      58.38
+    ],
+    "latLng": [
+      40.0,
+      60.0
+    ],
+    "flag": "https://flagcdn.com/tm.svg",
+    "flagEmoji": "\ud83c\uddf9\ud83c\uddf2",
+    "mapUrl": "https://goo.gl/maps/cgfUcaQHSWKuqeKk9",
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "spotlightCity": "Ashgabat"
+  },
+  {
+    "iso3": "TLS",
+    "iso2": "TL",
+    "country": "Timor-Leste",
+    "population": 1384286,
+    "weight": 1.589e-05,
+    "cumulativeWeight": 0.08196475,
+    "capital": "Dili",
+    "capitalLatLng": [
+      -8.58,
+      125.6
+    ],
+    "latLng": [
+      -8.83333333,
+      125.91666666
+    ],
+    "flag": "https://flagcdn.com/tl.svg",
+    "flagEmoji": "\ud83c\uddf9\ud83c\uddf1",
+    "mapUrl": "https://goo.gl/maps/sFqBC9zjgUXPR1iTA",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "spotlightCity": "Dili"
+  },
+  {
+    "iso3": "TON",
+    "iso2": "TO",
+    "country": "Tonga",
+    "population": 104597,
+    "weight": 1.2e-06,
+    "cumulativeWeight": 0.08196595,
+    "capital": "Nuku'alofa",
+    "capitalLatLng": [
+      -21.13,
+      -175.2
+    ],
+    "latLng": [
+      -20.0,
+      -175.0
+    ],
+    "flag": "https://flagcdn.com/to.svg",
+    "flagEmoji": "\ud83c\uddf9\ud83c\uddf4",
+    "mapUrl": "https://goo.gl/maps/p5YALBY2QdEzswRo7",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "spotlightCity": "Nuku'alofa"
+  },
+  {
+    "iso3": "TTO",
+    "iso2": "TT",
+    "country": "Trinidad and Tobago",
+    "population": 1367510,
+    "weight": 1.57e-05,
+    "cumulativeWeight": 0.08198165,
+    "capital": "Port of Spain",
+    "capitalLatLng": [
+      10.65,
+      -61.52
+    ],
+    "latLng": [
+      10.6918,
+      -61.2225
+    ],
+    "flag": "https://flagcdn.com/tt.svg",
+    "flagEmoji": "\ud83c\uddf9\ud83c\uddf9",
+    "mapUrl": "https://goo.gl/maps/NrRfDEWoG8FGZqWY7",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "spotlightCity": "Port of Spain"
+  },
+  {
+    "iso3": "TUN",
+    "iso2": "TN",
+    "country": "Tunisia",
+    "population": 12200431,
+    "weight": 0.00014003,
+    "cumulativeWeight": 0.08212168,
+    "capital": "Tunis",
+    "capitalLatLng": [
+      36.8,
+      10.18
+    ],
+    "latLng": [
+      34.0,
+      9.0
+    ],
+    "flag": "https://flagcdn.com/tn.svg",
+    "flagEmoji": "\ud83c\uddf9\ud83c\uddf3",
+    "mapUrl": "https://goo.gl/maps/KgUmpZdUuNRaougs8",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "spotlightCity": "Tunis"
+  },
+  {
+    "iso3": "TUR",
+    "iso2": "TR",
+    "country": "Turkiye",
+    "population": 85325965,
+    "weight": 0.00097931,
+    "cumulativeWeight": 0.08310098,
+    "capital": "Ankara",
+    "capitalLatLng": [
+      39.93,
+      32.87
+    ],
+    "latLng": [
+      39.0,
+      35.0
+    ],
+    "flag": "https://flagcdn.com/tr.svg",
+    "flagEmoji": "\ud83c\uddf9\ud83c\uddf7",
+    "mapUrl": "https://goo.gl/maps/dXFFraiUDfcB6Quk6",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "spotlightCity": "Ankara"
+  },
+  {
+    "iso3": "TUV",
+    "iso2": "TV",
+    "country": "Tuvalu",
+    "population": 9816,
+    "weight": 1.1e-07,
+    "cumulativeWeight": 0.0831011,
+    "capital": "Funafuti",
+    "capitalLatLng": [
+      -8.52,
+      179.22
+    ],
+    "latLng": [
+      -8.0,
+      178.0
+    ],
+    "flag": "https://flagcdn.com/tv.svg",
+    "flagEmoji": "\ud83c\uddf9\ud83c\uddfb",
+    "mapUrl": "https://goo.gl/maps/LbuUxtkgm1dfN1Pn6",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "spotlightCity": "Funafuti"
+  },
+  {
+    "iso3": "TZA",
+    "iso2": "TZ",
+    "country": "Tanzania",
+    "population": 66617606,
+    "weight": 0.00076459,
+    "cumulativeWeight": 0.08386568,
+    "capital": "Dodoma",
+    "capitalLatLng": [
+      -6.16,
+      35.75
+    ],
+    "latLng": [
+      -6.0,
+      35.0
+    ],
+    "flag": "https://flagcdn.com/tz.svg",
+    "flagEmoji": "\ud83c\uddf9\ud83c\uddff",
+    "mapUrl": "https://goo.gl/maps/NWYMqZYXte4zGZ2Q8",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "spotlightCity": "Dodoma"
+  },
+  {
+    "iso3": "UGA",
+    "iso2": "UG",
+    "country": "Uganda",
+    "population": 48656601,
+    "weight": 0.00055844,
+    "cumulativeWeight": 0.08442413,
+    "capital": "Kampala",
+    "capitalLatLng": [
+      0.32,
+      32.55
+    ],
+    "latLng": [
+      1.0,
+      32.0
+    ],
+    "flag": "https://flagcdn.com/ug.svg",
+    "flagEmoji": "\ud83c\uddfa\ud83c\uddec",
+    "mapUrl": "https://goo.gl/maps/Y7812hFiGa8LD9N68",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "spotlightCity": "Kampala"
+  },
+  {
+    "iso3": "UKR",
+    "iso2": "UA",
+    "country": "Ukraine",
+    "population": 37732836,
+    "weight": 0.00043307,
+    "cumulativeWeight": 0.08485719,
+    "capital": "Kyiv",
+    "capitalLatLng": [
+      50.43,
+      30.52
+    ],
+    "latLng": [
+      49.0,
+      32.0
+    ],
+    "flag": "https://flagcdn.com/ua.svg",
+    "flagEmoji": "\ud83c\uddfa\ud83c\udde6",
+    "mapUrl": "https://goo.gl/maps/DvgJMiPJ7aozKFZv7",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "spotlightCity": "Kyiv"
+  },
+  {
+    "iso3": "URY",
+    "iso2": "UY",
+    "country": "Uruguay",
+    "population": 3388081,
+    "weight": 3.889e-05,
+    "cumulativeWeight": 0.08489608,
+    "capital": "Montevideo",
+    "capitalLatLng": [
+      -34.85,
+      -56.17
+    ],
+    "latLng": [
+      -33.0,
+      -56.0
+    ],
+    "flag": "https://flagcdn.com/uy.svg",
+    "flagEmoji": "\ud83c\uddfa\ud83c\uddfe",
+    "mapUrl": "https://goo.gl/maps/tiQ9Baekb1jQtDSD9",
+    "region": "Americas",
+    "subregion": "South America",
+    "spotlightCity": "Montevideo"
+  },
+  {
+    "iso3": "USA",
+    "iso2": "US",
+    "country": "United States",
+    "population": 334914895,
+    "weight": 0.0038439,
+    "cumulativeWeight": 0.08873998,
+    "capital": "Washington",
+    "capitalLatLng": [
+      38.89,
+      -77.05
+    ],
+    "latLng": [
+      38.0,
+      -97.0
+    ],
+    "flag": "https://flagcdn.com/us.svg",
+    "flagEmoji": "\ud83c\uddfa\ud83c\uddf8",
+    "mapUrl": "https://goo.gl/maps/e8M246zY4BSjkjAv6",
+    "region": "Americas",
+    "subregion": "North America",
+    "spotlightCity": "Washington, D.C."
+  },
+  {
+    "iso3": "UZB",
+    "iso2": "UZ",
+    "country": "Uzbekistan",
+    "population": 35652307,
+    "weight": 0.00040919,
+    "cumulativeWeight": 0.08914917,
+    "capital": "Tashkent",
+    "capitalLatLng": [
+      41.32,
+      69.25
+    ],
+    "latLng": [
+      41.0,
+      64.0
+    ],
+    "flag": "https://flagcdn.com/uz.svg",
+    "flagEmoji": "\ud83c\uddfa\ud83c\uddff",
+    "mapUrl": "https://goo.gl/maps/AJpo6MjMx23qSWCz8",
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "spotlightCity": "Tashkent"
+  },
+  {
+    "iso3": "VCT",
+    "iso2": "VC",
+    "country": "St. Vincent and the Grenadines",
+    "population": 101323,
+    "weight": 1.16e-06,
+    "cumulativeWeight": 0.08915033,
+    "capital": "Kingstown",
+    "capitalLatLng": [
+      13.13,
+      -61.22
+    ],
+    "latLng": [
+      13.25,
+      -61.2
+    ],
+    "flag": "https://flagcdn.com/vc.svg",
+    "flagEmoji": "\ud83c\uddfb\ud83c\udde8",
+    "mapUrl": "https://goo.gl/maps/wMbnMqjG37FMnrwf7",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "spotlightCity": "Kingstown"
+  },
+  {
+    "iso3": "VEN",
+    "iso2": "VE",
+    "country": "Venezuela, RB",
+    "population": 28300854,
+    "weight": 0.00032482,
+    "cumulativeWeight": 0.08947515,
+    "capital": "Caracas",
+    "capitalLatLng": [
+      10.48,
+      -66.87
+    ],
+    "latLng": [
+      8.0,
+      -66.0
+    ],
+    "flag": "https://flagcdn.com/ve.svg",
+    "flagEmoji": "\ud83c\uddfb\ud83c\uddea",
+    "mapUrl": "https://goo.gl/maps/KLCwDN8sec7z2kse9",
+    "region": "Americas",
+    "subregion": "South America",
+    "spotlightCity": "Caracas"
+  },
+  {
+    "iso3": "VGB",
+    "iso2": "VG",
+    "country": "British Virgin Islands",
+    "population": 38985,
+    "weight": 4.5e-07,
+    "cumulativeWeight": 0.08947559,
+    "capital": "Road Town",
+    "capitalLatLng": [
+      18.42,
+      -64.62
+    ],
+    "latLng": [
+      18.431383,
+      -64.62305
+    ],
+    "flag": "https://flagcdn.com/vg.svg",
+    "flagEmoji": "\ud83c\uddfb\ud83c\uddec",
+    "mapUrl": "https://goo.gl/maps/49C9cSesNVAR9DQk8",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "spotlightCity": "Road Town"
+  },
+  {
+    "iso3": "VIR",
+    "iso2": "VI",
+    "country": "Virgin Islands (U.S.)",
+    "population": 104917,
+    "weight": 1.2e-06,
+    "cumulativeWeight": 0.0894768,
+    "capital": "Charlotte Amalie",
+    "capitalLatLng": [
+      18.35,
+      -64.93
+    ],
+    "latLng": [
+      18.35,
+      -64.933333
+    ],
+    "flag": "https://flagcdn.com/vi.svg",
+    "flagEmoji": "\ud83c\uddfb\ud83c\uddee",
+    "mapUrl": "https://goo.gl/maps/mBfreywj8dor6q4m9",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "spotlightCity": "Charlotte Amalie"
+  },
+  {
+    "iso3": "VNM",
+    "iso2": "VN",
+    "country": "Viet Nam",
+    "population": 100352192,
+    "weight": 0.00115177,
+    "cumulativeWeight": 0.09062856,
+    "capital": "Hanoi",
+    "capitalLatLng": [
+      21.03,
+      105.85
+    ],
+    "latLng": [
+      16.16666666,
+      107.83333333
+    ],
+    "flag": "https://flagcdn.com/vn.svg",
+    "flagEmoji": "\ud83c\uddfb\ud83c\uddf3",
+    "mapUrl": "https://goo.gl/maps/PCpVt9WzdJ9A9nEZ9",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "spotlightCity": "Hanoi"
+  },
+  {
+    "iso3": "VUT",
+    "iso2": "VU",
+    "country": "Vanuatu",
+    "population": 320409,
+    "weight": 3.68e-06,
+    "cumulativeWeight": 0.09063224,
+    "capital": "Port Vila",
+    "capitalLatLng": [
+      -17.73,
+      168.32
+    ],
+    "latLng": [
+      -16.0,
+      167.0
+    ],
+    "flag": "https://flagcdn.com/vu.svg",
+    "flagEmoji": "\ud83c\uddfb\ud83c\uddfa",
+    "mapUrl": "https://goo.gl/maps/hwAjehcT7VfvP5zJ8",
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "spotlightCity": "Port Vila"
+  },
+  {
+    "iso3": "WSM",
+    "iso2": "WS",
+    "country": "Samoa",
+    "population": 216663,
+    "weight": 2.49e-06,
+    "cumulativeWeight": 0.09063473,
+    "capital": "Apia",
+    "capitalLatLng": [
+      -13.82,
+      -171.77
+    ],
+    "latLng": [
+      -13.58333333,
+      -172.33333333
+    ],
+    "flag": "https://flagcdn.com/ws.svg",
+    "flagEmoji": "\ud83c\uddfc\ud83c\uddf8",
+    "mapUrl": "https://goo.gl/maps/CFC9fEFP9cfkYUBF9",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "spotlightCity": "Apia"
+  },
+  {
+    "iso3": "YEM",
+    "iso2": "YE",
+    "country": "Yemen, Rep.",
+    "population": 39390799,
+    "weight": 0.0004521,
+    "cumulativeWeight": 0.09108683,
+    "capital": "Sanaa",
+    "capitalLatLng": [
+      15.37,
+      44.19
+    ],
+    "latLng": [
+      15.0,
+      48.0
+    ],
+    "flag": "https://flagcdn.com/ye.svg",
+    "flagEmoji": "\ud83c\uddfe\ud83c\uddea",
+    "mapUrl": "https://goo.gl/maps/WCmE76HKcLideQQw7",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "spotlightCity": "Sana'a"
+  },
+  {
+    "iso3": "ZAF",
+    "iso2": "ZA",
+    "country": "South Africa",
+    "population": 63212384,
+    "weight": 0.0007255,
+    "cumulativeWeight": 0.09181233,
+    "capital": "Pretoria",
+    "capitalLatLng": [
+      -25.7,
+      28.22
+    ],
+    "latLng": [
+      -29.0,
+      24.0
+    ],
+    "flag": "https://flagcdn.com/za.svg",
+    "flagEmoji": "\ud83c\uddff\ud83c\udde6",
+    "mapUrl": "https://goo.gl/maps/CLCZ1R8Uz1KpYhRv6",
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "spotlightCity": "Pretoria"
+  },
+  {
+    "iso3": "ZMB",
+    "iso2": "ZM",
+    "country": "Zambia",
+    "population": 20723965,
+    "weight": 0.00023785,
+    "cumulativeWeight": 0.09205018,
+    "capital": "Lusaka",
+    "capitalLatLng": [
+      -15.42,
+      28.28
+    ],
+    "latLng": [
+      -15.0,
+      30.0
+    ],
+    "flag": "https://flagcdn.com/zm.svg",
+    "flagEmoji": "\ud83c\uddff\ud83c\uddf2",
+    "mapUrl": "https://goo.gl/maps/mweBcqvW8TppZW6q9",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "spotlightCity": "Lusaka"
+  },
+  {
+    "iso3": "ZWE",
+    "iso2": "ZW",
+    "country": "Zimbabwe",
+    "population": 16340822,
+    "weight": 0.00018755,
+    "cumulativeWeight": 0.09223773,
+    "capital": "Harare",
+    "capitalLatLng": [
+      -17.82,
+      31.03
+    ],
+    "latLng": [
+      -20.0,
+      30.0
+    ],
+    "flag": "https://flagcdn.com/zw.svg",
+    "flagEmoji": "\ud83c\uddff\ud83c\uddfc",
+    "mapUrl": "https://goo.gl/maps/M26BqdwQctqxXS65A",
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "spotlightCity": "Harare"
+  }
+]
