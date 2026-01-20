@@ -89,6 +89,7 @@ function App() {
       }
       setLatestRoll(roll)
       addEntry(roll)
+      setFullName('')
       setIsRolling(false)
     }, ROLL_DURATION_MS)
   }
