@@ -120,9 +120,9 @@ def main() -> None:
     population = read_population(Path(args.population_csv))
     geonames = read_geonames(Path(args.geonames))
     rest = read_rest_countries(Path(args.rest_json))
-    total = sum(int(row["population"]) for row in population)
-    cumulative = 0.0
-    enriched: List[Dict] = []
+
+    # First pass: collect valid countries and calculate total population
+    valid_rows: List[Tuple[Dict[str, str], str, Dict]] = []
     for row in population:
         iso3, _ = iso_from_population(row, geonames)
         if not iso3:
@@ -130,8 +130,17 @@ def main() -> None:
         rest_entry = rest.get(iso3)
         if not rest_entry:
             continue
+        valid_rows.append((row, iso3, rest_entry))
+
+    # Calculate total from only the countries that will be included
+    total = sum(int(row["population"]) for row, _, _ in valid_rows)
+
+    cumulative = 0.0
+    enriched: List[Dict] = []
+    for row, iso3, rest_entry in valid_rows:
         entry, cumulative = build_country_entry(row, iso3, geonames, rest_entry, total, cumulative)
         enriched.append(entry)
+
     output_path = Path(args.output)
     output_path.parent.mkdir(parents=True, exist_ok=True)
     output_path.write_text(json.dumps(enriched, indent=2), encoding="utf-8")
